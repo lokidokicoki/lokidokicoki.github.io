@@ -1,4 +1,10 @@
-﻿Calendar
+﻿---
+layout: page
+title: Calendar
+permalink: /calendar/
+---
+
+Calendar
 
 
 Since the advent of the Hylurian Empire, years are either negative or positive to show which side of the empire’s creation they fall.
