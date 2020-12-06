@@ -31,7 +31,7 @@ github_username:  lokidokicoki
 markdown: GFM
 
 # Build settings
-theme: minima
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
