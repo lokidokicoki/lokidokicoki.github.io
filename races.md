@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Demographics
-permalink: /demographics/
+title: Races
+permalink: /races/
 ---
 
 The principle races of Hyluria
