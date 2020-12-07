@@ -4,8 +4,6 @@ title: Magic & Religion
 permalink: /magic-and-religion/
 ---
 
-#
-
 ## The Siexta
 
 The principle deities of Hyluria are known as the Siexta (^Truar), or the Six (Urman). This group name is found in races languages.

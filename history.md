@@ -30,7 +30,7 @@ The face of the world had changed. The Zrinbel Bridge had been shattered and was
 
 Time passed, the first races returned to their homes, becoming more secluded.
 
-Men, Urman as they became to be known, arrived on the coast of Be^lash. From where, no record has ever been found. They moved along the K^ren River (in Urman: Kiren River) and settled the fertile farmland of Tandive. Some went south, through the Le’she Scrub and the Mro’gabtak belt to colonise Erilea.
+Men, Urman as they became to be known, arrived on the coast of Be^lash. From where, no record has ever been found. They moved along the K^ren River (in Urman: Kiren River) and settled the fertile farmland of Tandive. Some went south, through the Le’she Scrub and the Mro’Gabtak belt to colonise Erilea.
 
 From Tandive, the humans fought a bitter territory war with the Silva^tru of Be^lash. This was resolved with a peace accord and the forming of the Hylurian Empire (0 HE). Tandive later became a nation state of the Empire, paying taxes and receiving protection from the invading UR’ku from the Skor’dash Scrub.
 

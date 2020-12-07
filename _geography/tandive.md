@@ -7,15 +7,15 @@ summary: Second largest Urman country
 ## Summary
 
 - History: settled in -34HE, originally part of the Hylurian Empire before gaining independence in 212HE
-- Inhabitants: Urman
+- Inhabitants: [Urman]({%link _races/urman.md%})
 - Description: green and pleasant land. Farm land, the bread basket of the Spin. Dotted with little villages and even fewer small market towns with attached farm holdings
 
 ### Location
 
-- To the north; Kal^verthian Forest
-- To the south; M!tep Desert
-- To the east; Hylur
-- To the west; Skor'dash Scrub
+- To the north; [Kal^verthian Forest]({%link _geography/kalverthian-forest.md%})
+- To the south; [M!tep Desert]({%link _geography/mtep-desert.md%})
+- To the east; [Hylur]({%link _geography/hyluria.md%})
+- To the west; [Skor'Dash Scrub]({%link _geography/skordash-scrub.md%})
 
 ## Places of note:
 
@@ -32,10 +32,8 @@ summary: Second largest Urman country
  - a provisions shop, 
  - an undertakers, 
  - a guards station
- - a market square.
- - a smattering of houses and 
-
-
+ - a market square
+ - a smattering of houses
 
 ### Trest:
 Stage coach stop south of Fairhaven

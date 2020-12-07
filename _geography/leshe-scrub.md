@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Le'she Scrub
+title: Le'She Scrub
 summary: Eastern equatorial country
 ---
 
 ## Summary
 History: settled in -????HE
-- Principal inhabitants: Sudhz UR'ku
+- Principal inhabitants: [Sudhz UR'ku]({%link _races/urku.md%})
 - Description: think Aussie outback, desert with a few trees and hills. 
 
 ### Location
 
-- To the north; Be^lash
-- To the south; Mro'gabtak Belt
-- To the east; Zr^nbel Step and the Strandish OCean
-- To the west; M!tep Desert
+- To the north; [Be^lash]({%link _geography/belash.md%})
+- To the south; [Mro'Gabtak Belt]({%link _geography/mrogabtak-belt.md%})
+- To the east; [Zr^nbel Steps]({%link _geography/zrinbel-steps.md%}) and the Strandish OCean
+- To the west; [M!tep Desert]({%link _geography/mtep-desert.md%})
 ## Places of note:
 
 ### Ki’poh: 

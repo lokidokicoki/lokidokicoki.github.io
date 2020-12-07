@@ -7,15 +7,15 @@ summary: Large desert located in the west of the Spinwise Marches
 ## Summary
 
 - History: settled in ??? HE
-- Inhabitants: Drache!zin and Drache
+- Inhabitants: [Drache!zin]({%link _races/drachezin.md%}) and Drache
 - After the Great Scourge, the Drache and Drache!zin relocated here from the other regions of the Spin.
 - Descripion: Morocco/Sahara, scattered oases and Drache!holts
 
 ### Location
 
-- To the north; tandive and the Skor'dash Scrub
-- To the south; Mro'Gabtak Belt
-- To the east; Le'she Scrub
+- To the north; [Tandive]({%link _geography/tandive.md%}) and the [Skor'Dash Scrub]({%link _geography/skordash-scrub.md%})
+- To the south; [Mro'Gabtak Belt]({%link _geography/mrogabtak-belt.md%})
+- To the east; [Le'She Scrub]({%link _geography/leshe-scrub.md%})
 - To the west; The Bli'Karur Ocean
 
 ## Places of note:
