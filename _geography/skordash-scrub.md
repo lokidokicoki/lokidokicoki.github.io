@@ -10,6 +10,9 @@ summary: East coast country, inhabited by the Truar
 - Inhabitants: UR'ku and Khob'linn
  -A hodgepodge of clans with no clear leader. Khob’linn are servants to the UR’ku, either in their clans or separate hamlets.
 Collections of small holdings with palisade walls to denote a clan leaders enclave
+
+### Location
+
 - To the north; the Kal^verthian Forest
 - To the south; Mt!tep Desert
 - To the east; Tandive

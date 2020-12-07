@@ -8,6 +8,9 @@ summary: Eastern equatorial country
 History: settled in -????HE
 - Principal inhabitants: Sudhz UR'ku
 - Description: think Aussie outback, desert with a few trees and hills. 
+
+### Location
+
 - To the north; Be^lash
 - To the south; Mro'gabtak Belt
 - To the east; Zr^nbel Step and the Strandish OCean

@@ -8,6 +8,9 @@ summary: Dense forest spanning the northern Spinwise Marches
 - History: settled in -????HE
 - Principal inhabitants: Drya^tru
 - Description: dense, deciduous in the south, progressively coniferous in the north. The elves live in grand tree houses in the canopy of the giant trees. Those in the north are harder than their southern cousins. Good hunters.
+
+### Location
+
 - To the nort; the Shirak Wastes
 - To the south; Tandive and the Hyluria Empire
 - To the east; Be^lash and the Strandish Ocean

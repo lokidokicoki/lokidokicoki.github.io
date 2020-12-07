@@ -9,6 +9,9 @@ summary: South of Mro'Gabtak Belt and Erliea
 - History: settled in -???HE
 - Principal inhabitants: Sudzwergar
 - Description: Mountainous, icy., snowy
+
+### Location
+
 - To the north; tandive and the Skor'dash Scrub
 - To the south; Mro'Batak Belt
 - To the east; Le'she Scrub

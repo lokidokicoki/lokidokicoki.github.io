@@ -8,6 +8,9 @@ summary: Central country, home of the Imperial City of Hylur
 
 - History: settled in -???HE
 - Principal inhabitants: Urman
+
+### Location
+
 - To the north; the Kal^verthian Forest. 
 - To the south; the M!tep Desert and the Le'she Scrub.
 - To the east; Be^lash

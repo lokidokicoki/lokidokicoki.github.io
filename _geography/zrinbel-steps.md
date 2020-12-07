@@ -10,6 +10,9 @@ summary: Archipelago leading into the Strandish Ocean
 - Also known as the Razorback to the Erileans.
 - Description: Archipelago, Think Tenerife, Gibraltar etc
 
+
+### Location
+
 ## Places of note:
 
 TBD

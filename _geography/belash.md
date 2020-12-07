@@ -9,6 +9,9 @@ summary: East coast country, inhabited by the Truar
 - History: settled in -3890HE
 - Principal inhabitants: Silva^tru
 - rolling green hills and fallow meadows, spring flowers and stands of fruit trees. Imagine Wales when it isn’t raining :D
+
+### Location
+
 - To the north: a dense deciduous wood leading into the Kal^verthian Forest. 
 - To the south: the Zri^nbel mountain range (Urman: The Razorback).
 - To the east: the Strandish Ocean. The K^ren River empties into the ocean via the Ry^leh Delta, a web of rivers and islets.

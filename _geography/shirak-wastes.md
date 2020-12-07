@@ -9,6 +9,9 @@ summary: Northen tundra and mountains
 - History: settle din -4000HE
 - Inhabitants: Nordzwergar
 - Description: tundra, Mountains, icy, snowy
+
+### Location
+
 - To the north; Islandia
 - To the south; Kal^verthian Forest and Skor'dash Scrub
 - To the east; ...

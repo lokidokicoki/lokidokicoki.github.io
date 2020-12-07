@@ -8,6 +8,9 @@ summary: Straddles the Spinwise Marches
 
 - Inhabitants: UR'ku, Urman, and Drache!zin
 - Description:  a site of some of the worst battles during the Great Scourge.  Many places are magical dead zones.
+
+### Location
+
 - To the north; M!tep Desert and Le'she Scrub
 - To the south; Erilea and Darak Wastes
 - To the east; Zr^nbel Step and the Strandish OCean
