@@ -43,9 +43,9 @@ Docks
 Southern capital
 
 ### Lisk^rth:
-Southeastern coastal town.
-Fishing
-Voyages out to Zr^nbel Steps
+- Southeastern coastal town.
+- Fishing
+- Voyages out to Zr^nbel Steps
 
 ### Tib^roth:
 Southernmost village
