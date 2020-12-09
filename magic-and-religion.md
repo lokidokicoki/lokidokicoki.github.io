@@ -36,7 +36,7 @@ Rogue/ranger
 Middle aged Male
 Quiet, not wordy
 
-### KrayVax die Zerstorer
+### KrayVax the Destroyer
 Fighter/barbarian
 Middle aged Female
 Gruff, brash

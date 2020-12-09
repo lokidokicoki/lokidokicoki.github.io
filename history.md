@@ -5,7 +5,7 @@ permalink: /history/
 ---
 
 <em>
-"Before time, The Six created the world from a memory and a dream. Althwinn commanded it, Sibelius the Bright brought forth light, Rakshi the Kind gave life to it, Mendel the Swift laughed at the joy of it, Greyfoot hunted it and KrayVax die Zerstorer ended it."
+"Before time, The Six created the world from a memory and a dream. Althwinn commanded it, Sibelius the Bright brought forth light, Rakshi the Kind gave life to it, Mendel the Swift laughed at the joy of it, Greyfoot hunted it and KrayVax the Destroyer ended it."
 </em>
 
 In the long ago, before the Hylurian Empire, before men, the raw world existed.
