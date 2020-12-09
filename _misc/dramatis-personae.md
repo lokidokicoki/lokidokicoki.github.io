@@ -35,3 +35,13 @@ summary: Notable individuals in Hylur
 - Happy for the heroes to take over as it was previously run by Big Chungus of the Urmans First gang
 - Late 40’s/early 50’s grey beard, bald on top, quiet, but can be menacing at times. Has that casual air of an old soldier who’s seen too much.
 
+## Garak
+
+- Khob'linn Necromancer
+- Sibelius H'x, The Flower, Imperial City
+
+## Horfath
+
+- Big bear of an Urman.
+- Runs Horfath's Place - gym
+- KrayVax H'x, The Thorns, Imperial City.
