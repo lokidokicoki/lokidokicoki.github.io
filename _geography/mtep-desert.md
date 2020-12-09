@@ -8,8 +8,9 @@ summary: Large desert located in the west of the Spinwise Marches
 
 - History: settled in ??? HE
 - Inhabitants: [Drache!zin]({%link _races/drachezin.md%}) and Drache
-- After the Great Scourge, the Drache and Drache!zin relocated here from the other regions of the Spin.
-- Descripion: Morocco/Sahara, scattered oases and Drache!holts
+- Descripion: Morocco/Sahara, scattered oases and Drache!holts (major cities)
+- There are few roads in the desert; those that exists, link the Drache!holts together and provide access to the North and South.
+
 
 ### Location
 
@@ -21,17 +22,38 @@ summary: Large desert located in the west of the Spinwise Marches
 ## Places of note:
 
 ### Tsz!kany
+- east-south-east of Faf!nyr, 
+- run by black/silver
 
 ### Faf!nyr
+-central, run by blue/brass
+
 
 ### Ghi!drah
+-northern most
+-Run by Green/copper
+
 
 ### Aj!daha
 
+-south-west of Faf!nyr, run by red/gold
+
 ### Sh!dan
+
+-West-most, near the coast
+-Run by white and bronze
+
 
 ## Features
 
+### Oases
+
+Several oases are dotted around the desert, these provide one of few sources of clean water in the region.
+
 ### Kh!ze!dum
 
+An ancient Drache temple, a dark and foreboding place. 
+
 ### Gr!pen Moor
+
+A remanent of the Great Scourge, an area of desert known as the Shadowfall, a large blackened plain of glassed sand. Nothing lives here, nothing magical works here….

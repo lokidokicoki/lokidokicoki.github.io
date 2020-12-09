@@ -66,22 +66,23 @@ An example date would be 402HE/DW28; the year 402, 28th day of Deep Winter (the 
 ## Timeline
 
 
-| Date     | Event                                                                                                               |
-| -------- | ------------------------------------------------------------------------------------------------------------------- |
-| Pre-time | The Six bring the world into being                                                                                  |
-| -5000HE  | War of The Furistaz (First races)                                                                                   |
-| -4000HE  | The Furistaz separate and settle their lands                                                                        |
-| -2476HE  | Zarg rises and begins the Great Scourge                                                                             |
-| -1910HE  | The Furistaz joined forces to defeat Zarg.                                                                          |
-| -505HE   | The Urman arrive on the coast of Be^lash                                                                            |
-| -434HE   | The Urman settle Tandive                                                                                            |
-| -201HE   | The War of the Nehwist (Next race) begins (urman vs silva^tru, Tandive vs. Be^lash)                                 |
-| 0HE      | The War of the Nehwist ends, formation of the Hylurian Empire. Signing of peace accord between Urmand and Silva^tru |
-| 200HE    | Tandive starts fight for independence                                                                               |
-| 212HE    | Tandive becomes satellite state of the Empire                                                                       |
-| 402HE    | Scholar Qi^ldor publishes the Formal History of Hyluria.                                                            |
-| 650HE    | Odd events reported in the South                                                                                    |
-| 719HE    | now!                                                                                                                |
-
-
-Current date is 719HE/E10.
+| Date      | Event                                                                                                               |
+| --------- | ------------------------------------------------------------------------------------------------------------------- |
+| Pre-time  | The Six bring the world into being                                                                                  |
+| -300000HE | The Drache arrive                                                                                                   |
+| -10000HE  | The Furistaz arrive                                                                                                 |
+| -8000HE   | War of The Furistaz begins                                                                                          |
+| -4000HE   | War of The Fursitaz ends; The Furistaz (now incorporating the Drache) separate and settle their lands               |
+| -3800HE   | The Drache Wars begin                                                                                               |
+| -2800HE   | The Drache Wars end with The Sz!rz!des of Sz!nes being signed                                                       |
+| -2476HE   | Zarg rises and begins the Great Scourge                                                                             |
+| -1910HE   | The Furistaz joined forces to defeat Zarg.                                                                          |
+| -505HE    | The Urman arrive on the coast of Be^lash                                                                            |
+| -434HE    | The Urman settle Tandive                                                                                            |
+| -201HE    | The War of the Nehwist (Next race) begins (urman vs silva^tru, Tandive vs. Be^lash)                                 |
+| 0HE       | The War of the Nehwist ends, formation of the Hylurian Empire. Signing of peace accord between Urmand and Silva^tru |
+| 200HE     | Tandive starts fight for independence                                                                               |
+| 212HE     | Tandive becomes satellite state of the Empire                                                                       |
+| 402HE     | Scholar Qi^ldor publishes the Formal History of Hyluria.                                                            |
+| 650HE     | Odd events reported in the South                                                                                    |
+| 719HE     | now!                                                                                                                |
