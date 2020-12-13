@@ -36,7 +36,7 @@ summary: Notable individuals in Hylur
 - Late 40’s/early 50’s grey beard, bald on top, quiet, but can be menacing at times. Has that casual air of an old soldier who’s seen too much.
 - Pub staff:
   - Jeffry the Cheffry
-  - Mariel Hamarli, female ^truar Minstrel
+  - Mariel Hanarli, female ^truar Minstrel
   - Ovark, female half UR'ku/Urman - stable hand
   - Shadbak, femal UR'ku barmaid
   - Osk, male kobold, bar boy
