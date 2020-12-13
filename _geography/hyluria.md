@@ -20,7 +20,8 @@ summary: Central country, home of the Imperial City of Hylur
 
 ### Imperial City of Hylur:
 Nestled in bow of Kiren/K^ren River
-See separate doc
+
+[More info]({% link _places/imperial-city-of-hylur.md %})
 
 ### Nornby:
 Most Northwesterly settlement.
@@ -31,7 +32,9 @@ Stage coach stop.
 Second largest town in Hyluria
 
 ### Brinn:
-Stage coach stop to Be^lash
+Stage coach stop  between Imperial City and the twin towns of Sim^ran & Li^rn. Mainly farmers, a blacksmiths with adjoining stables, a Temple to Althwinn, an inn (The Travellers Rest), a town hall, bookshop, carpenters, masons, a general store, an undertakers, a guards station, houses and a market square.
+
+[More info]({% link _places/brinn.md %})
 
 ### Carterby:
 Small village
@@ -39,6 +42,8 @@ Farming
 
 ### Allerton:
 Third largest town in Hyluria
+
+[More info]({% link _places/allerton.md %})
 
 ### Gro!ert:
 crossroads stop

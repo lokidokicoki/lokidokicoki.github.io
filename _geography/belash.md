@@ -42,6 +42,8 @@ Docks
 ### Per^doth:
 Southern capital
 
+[More info]({% link _places/per-doth.md %})
+
 ### Lisk^rth:
 - Southeastern coastal town.
 - Fishing
