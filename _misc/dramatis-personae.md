@@ -34,6 +34,12 @@ summary: Notable individuals in Hylur
 - Retired soldier of the Hylurian Army, so handy in a fight
 - Happy for the heroes to take over as it was previously run by Big Chungus of the Urmans First gang
 - Late 40’s/early 50’s grey beard, bald on top, quiet, but can be menacing at times. Has that casual air of an old soldier who’s seen too much.
+- Pub staff:
+  - Jeffry the Cheffry
+  - Mariel Hamarli, female ^truar Minstrel
+  - Ovark, female half UR'ku/Urman - stable hand
+  - Shadbak, femal UR'ku barmaid
+  - Osk, male kobold, bar boy
 
 ## Garak
 
