@@ -8,13 +8,14 @@ summary: stuff in the kitty
 
 - electrum: 34
 - platinum: 2
-- gold: 570
+- gems: 50
+- gold: 1070
 - silver: 273
 - copper: 2
 
 ## Potions
 
-potion of gaseous form
+- potion of gaseous form
 
 ## Weapons
 
