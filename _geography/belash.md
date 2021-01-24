@@ -8,7 +8,7 @@ summary: East coast country, inhabited by the ^Truar
 
 - History: settled in -3890HE
 - Principal inhabitants: [Silva^tru]({% link _races/truar.md %})
-- rolling green hills and fallow meadows, spring flowers and stands of fruit trees. Imagine Wales when it isn’t raining :D
+- rolling green hills and fallow meadows, spring flowers and stands of fruit trees. Imagine Wales when it isn't raining :D
 
 ### Location
 
@@ -51,7 +51,7 @@ Southern capital
 
 ### Tib^roth:
 Southernmost village
-Near Le’she Scrub.
+Near Le'she Scrub.
 
 ## Features:
 

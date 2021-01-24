@@ -20,12 +20,12 @@ summary: Dense forest spanning the northern Spinwise Marches
 ### Wu^thholm:
  southern "capital"
 ### Nar^vholm:
- the northern "capital”
+ the northern "capital"
 ### Qi^cus: 
 a colossal oak in the heart of the forest
 ### Syr^loth: 
 a large lake in the east of the forest
 ### Si^xta Pillars: 
 ancient stone circle
-### Ashk^lon’s Fast: 
+### Ashk^lon's Fast: 
 Ruins of a ancient stone building.

@@ -8,7 +8,7 @@ summary: Large desert located in the west of the Spinwise Marches
 
 - History: settled in ??? HE
 - Inhabitants: [Drache!zin]({%link _races/drachezin.md%}) and Drache
-- Descripion: Morocco/Sahara, scattered oases and Drache!holts (major cities)
+- Description: Morocco/Sahara, scattered oases and Drache!holts (major cities)
 - There are few roads in the desert; those that exists, link the Drache!holts together and provide access to the North and South.
 
 

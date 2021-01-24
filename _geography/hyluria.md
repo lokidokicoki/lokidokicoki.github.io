@@ -19,7 +19,7 @@ summary: Central country, home of the Imperial City of Hylur
 ## Places of note:
 
 ### Imperial City of Hylur:
-Nestled in bow of Kiren/K^ren River
+Nestled in bow of K^ren River
 
 [More info]({% link _places/imperial-city-of-hylur.md %})
 
@@ -53,7 +53,7 @@ crossroads stop
 
 ## Features:
 
-### Deorctheng:
+### Deorcþeng:
 separate doc
 
 ### The Walkers:

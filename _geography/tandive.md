@@ -44,8 +44,8 @@ Stage coach stop south of Fairhaven
 - Tavern - Empires Reach
 - Apothecary
 
-### Millbrook:
-- Tavern (Farmer’s Arms) - run by Gyron Wiest, Headman of the village
+### Milbrook:
+- Tavern (Farmer's Arms) - run by Gyron Wiest, Headman of the village
 - Shrine to Rakshi
 - Water mill on the Iris Brook
 - 3 farms
@@ -84,7 +84,7 @@ Slightly smaller than Fairhaven
 - Guard station
 
 ### Charn:
-- Tavern - The Kha’laal
+- Tavern - The Kha'laal
 - Stables
 - Small market square
 - Date palm farms

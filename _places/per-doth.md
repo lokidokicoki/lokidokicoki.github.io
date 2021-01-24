@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Per^doth
-summary: The southern captial of Be^lash
+summary: The southern capital of Be^lash
 ---
 
-Elegant towers and low softly shaped bungalows made of a iridescent olive green material shimmer in the sunlight. The willowy towers seem to move in the wind like trees… But _obviously_ that can’t be.
+Elegant towers and low softly shaped bungalows made of a iridescent olive green material shimmer in the sunlight. The willowy towers seem to move in the wind like trees… But _obviously_ that can't be.
 
-The dun^n (fortress) is the southern capital of Be^lash, situated close to the Zr^nbel Steps, the mountain range that leads into the easterna ocean.
+The dun^n (fortress) is the southern capital of Be^lash, situated close to the Zr^nbel Steps, the mountain range that leads into the eastern ocean.
 
 ## Demographics
 Total population: 15,000
@@ -25,7 +25,7 @@ At the centre of the dun^n are six towers, arranged around an circular open air 
 
 There is no formal organisation of the dun^n, apart from the central towers. Shops and temples are intermingled with markets and houses, libraries and galleries, theatres and eateries.
 
-All the ^truar speak impeccable Urman, UR’kun, Zwerg and passable Drache.
+All the ^truar speak impeccable Urman, UR'kun, Zwerg and passable Drache.
 
 There are hostels to stay at. Storytelling, musical and poetry recitals.
 

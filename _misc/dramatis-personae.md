@@ -22,7 +22,7 @@ summary: Notable individuals in Hylur
 
 ## Tomman
 - Long serving clerk to the Empress
-- Urman, 30 years old, slight build, stutters, a bit autisitic
+- Urman, 30 years old, slight build, stutters, on the spectrum somewhere...
 
 ## Rippin-meself-orf Scribbler
 - Entrepreneur and aspiring "fast food" (only cos it took awhile to catch...) product salesman.
@@ -33,21 +33,21 @@ summary: Notable individuals in Hylur
 - Landlord of The Weathered Spoon tavern (now The Stiff FInger Tavern)
 - Retired soldier of the Hylurian Army, so handy in a fight
 - Happy for the heroes to take over as it was previously run by Big Chungus of the Urmans First gang
-- Late 40’s/early 50’s grey beard, bald on top, quiet, but can be menacing at times. Has that casual air of an old soldier who’s seen too much.
+- Late 40's/early 50's grey beard, bald on top, quiet, but can be menacing at times. Has that casual air of an old soldier who's seen too much.
 - Pub staff:
   - Jeffry the Cheffry
   - Mariel Hanarli, female ^truar Minstrel
   - Ovark, female half UR'ku/Urman - stable hand
-  - Shadbak, femal UR'ku barmaid
+  - Shadbak, female UR'ku barmaid
   - Osk, male kobold, bar boy
 
 ## Garak
 
 - Khob'linn Necromancer
-- Sibelius H'x, The Flower, Imperial City
+- Sibelius Hexant, The Flower, Imperial City
 
 ## Horfath
 
 - Big bear of an Urman.
 - Runs Horfath's Place - gym
-- KrayVax H'x, The Thorns, Imperial City.
+- KrayVax Hx, The Thorns, Imperial City.
