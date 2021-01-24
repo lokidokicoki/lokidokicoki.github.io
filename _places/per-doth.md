@@ -25,7 +25,7 @@ At the centre of the dun^n are six towers, arranged around an circular open air 
 
 There is no formal organisation of the dun^n, apart from the central towers. Shops and temples are intermingled with markets and houses, libraries and galleries, theatres and eateries.
 
-All the ^truar speak impeccable Urman, UR'kun, Zwerg and passable Drache.
+All the ^truar speak impeccable Urman, Ur'Kun, Zwerg and passable Drache.
 
 There are hostels to stay at. Storytelling, musical and poetry recitals.
 

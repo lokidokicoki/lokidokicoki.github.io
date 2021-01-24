@@ -39,7 +39,7 @@ Mainly farmers, a blacksmiths with adjoining stables, a Temple to Althwinn, an i
 
 #### Market square:
 - vendors from Hylur, Be^Lash, The Kal^verthian Forest.
-- Visitors from Hylur, Be^lash, Kal^verthian Forest and Le'She Scrub (UR'ku)
+- Visitors from Hylur, Be^lash, Kal^verthian Forest and Le'She Scrub (Ur'Ku)
 - Noisy, smelly, interesting, trinkets, weapons/armour, food, drink, jewellery 
 - Elvish food delicatessen
 - Some magical items

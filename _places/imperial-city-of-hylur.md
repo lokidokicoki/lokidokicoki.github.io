@@ -19,7 +19,7 @@ There are six roads into and out of the city: two to  Be^lash, one to the Le'she
 Total population: 25,000
 - 75% Urman
 - 10% ^Truar
-- 8% UR'ku and Khob'linn 
+- 8% Ur'Ku and Khob'Linn 
 - 5% Zwergar
 - 2% other
 

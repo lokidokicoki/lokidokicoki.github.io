@@ -10,13 +10,13 @@ permalink: /history/
 
 In the long ago, before the Hylurian Empire, before men, the raw world existed.
 
-Fractured, the first races, the Drache, the Silva^tru, the UR'ku and the Zwergar (dragons, elves, orcs, dwarves) battled for a thousand years.
+Fractured, the first races, the Drache, the Silva^tru, the Ur'Ku and the Zwergar (dragons, elves, orcs, dwarves) battled for a thousand years.
 
 The world was scarred, ripped in two leaving the Spinward Marches (the Spin) to the west and the Ripwise Lands (the Rip) to the east, bracketed by Shirak wastes and frozen Islandia to the North and the Darak Wastes and Cerulia to the south.
 
 The Drache (dragons) moved to the south, into the great M!tep desert and the Le'she Scrub.
 
-The tribes of the UR'ku split; some headed to the north west (Skor'dash Scrub), some to the Le'she Scrub and some are rumoured to have crossed the Standish Ocean via the Zr^nbel Bridge into the Ripwise Lands.
+The tribes of the Ur'Ku split; some headed to the north west (Skor'dash Scrub), some to the Le'she Scrub and some are rumoured to have crossed the Standish Ocean via the Zr^nbel Bridge into the Ripwise Lands.
 
 The elves also divided, some moved north into the Great Kal^verthian Forest, the rest settled the province Be^lash on the east coast of the Spin.
 
@@ -32,7 +32,7 @@ Time passed, the first races returned to their homes, becoming more secluded.
 
 Men, Urman as they became to be known, arrived on the coast of Be^lash. From where, no record has ever been found. They moved along the K^ren River and settled the fertile farmland of Tandive. Some went south, through the Le'she Scrub and the Mro'Gabtak belt to colonise Erilea.
 
-From Tandive, the humans fought a bitter territory war with the Silva^tru of Be^lash. This was resolved with a peace accord and the forming of the Hylurian Empire (0 HE). Tandive later became a nation state of the Empire, paying taxes and receiving protection from the invading UR'ku from the Skor'dash Scrub.
+From Tandive, the humans fought a bitter territory war with the Silva^tru of Be^lash. This was resolved with a peace accord and the forming of the Hylurian Empire (0 HE). Tandive later became a nation state of the Empire, paying taxes and receiving protection from the invading Ur'Ku from the Skor'dash Scrub.
 
 Peace, of a sort, has existed in the Spin for centuries. Emperors come and go, but daily life changes little. Fields are sown, crops are grown and harvested, cattle sold, songs sung and mead is drunk.
 

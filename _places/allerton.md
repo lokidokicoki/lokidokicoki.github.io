@@ -12,7 +12,7 @@ The city boasts impressive walls and defensive towers guarding the original fort
 Total population ~10,000
 - 70% Urman
 - 15% ^truar
-- 10% UR'ku and Khob'linn
+- 10% Ur'Ku and Khob'Linn
 - 5% other (Zwerg, Drache'zin)
 
 ## Layout

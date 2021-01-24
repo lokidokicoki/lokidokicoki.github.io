@@ -12,7 +12,7 @@ d5e: Dragonborn
 The Drache were the first race to exist in the world, formed by the gods in early glimmers of creation. Their long lifespans have allowed them to see the continents dance and shimmy across the oceans, over many millennia, reshaping the land into what we see today. 
 
 
-Over time the other Furistaz (First races; ^Truar, Zwergar and UR'ku) came into being, and after a brutal and bloody war; which coincided with the separation of the two main continents, the lands were divided up between them, with the Drache relocating to the M!tep Desert.
+Over time the other Furistaz (First races; ^Truar, Zwergar and Ur'Ku) came into being, and after a brutal and bloody war; which coincided with the separation of the two main continents, the lands were divided up between them, with the Drache relocating to the M!tep Desert.
 
 Drachen history at this point is bitter, with a rift forming between the chromatic and metallic Drache (along lines of support for and against the War of The Furistaz), leading to yet more conflict that raged for a thousand of years before being settled by a peace treaty (The Sz!rz!des of Sz!ne).
 

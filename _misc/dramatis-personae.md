@@ -37,13 +37,13 @@ summary: Notable individuals in Hylur
 - Pub staff:
   - Jeffry the Cheffry
   - Mariel Hanarli, female ^truar Minstrel
-  - Ovark, female half UR'ku/Urman - stable hand
-  - Shadbak, female UR'ku barmaid
+  - Ovark, female half Ur'Ku/Urman - stable hand
+  - Shadbak, female Ur'Ku barmaid
   - Osk, male kobold, bar boy
 
 ## Garak Y!lemi
 
-- Khob'linn wizard. Practised in the art of Necromancy, but not a practising necromancer. Oh no.
+- Khob'Linn wizard. Practised in the art of Necromancy, but not a practising necromancer. Oh no.
 - Resident of the Mage college in the Sibelius Hexant, The Flower, Imperial City
 
 ## Horfath Bjornsson

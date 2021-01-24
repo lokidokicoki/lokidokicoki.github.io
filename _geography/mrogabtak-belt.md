@@ -6,7 +6,7 @@ summary: Straddles the Spinwise Marches
 
 ## Summary
 
-- Inhabitants: [UR'ku]({%link _races/urku.md%}), [Urman]({%link _races/urman.md%}), and [Drache!zin]({%link _races/drachezin.md%})
+- Inhabitants: [Ur'Ku]({%link _races/urku.md%}), [Urman]({%link _races/urman.md%}), and [Drache!zin]({%link _races/drachezin.md%})
 - Description:  a site of some of the worst battles during the Great Scourge.  Many places are magical dead zones.
 
 ### Location

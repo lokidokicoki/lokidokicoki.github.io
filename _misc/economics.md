@@ -6,7 +6,7 @@ summary: Currencies and exchange rates
 
 ## Coin names
 
-| Coin     | Urman  | ^Truar | UR'ku & Khob'linn | Drache!zin | Zwergar   |
+| Coin     | Urman  | ^Truar | Ur'Ku & Khob'Linn | Drache!zin | Zwergar   |
 | -------- | ------ | ------ | ----------------- | ---------- | --------- |
 | Copper   | bit    | shrin  | kup               | szi        | kupfer    |
 | Sliver   | piece  | argen  | klat              | dre        | silber    |

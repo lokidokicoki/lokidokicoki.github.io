@@ -6,7 +6,7 @@ summary: Eastern equatorial country
 
 ## Summary
 History: settled in -????HE
-- Principal inhabitants: [Sudhz UR'ku]({%link _races/urku.md%})
+- Principal inhabitants: [Sudhz Ur'Ku]({%link _races/urku.md%})
 - Description: think Aussie outback, desert with a few trees and hills. 
 
 ### Location
