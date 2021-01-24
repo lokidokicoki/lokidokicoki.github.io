@@ -18,4 +18,4 @@ The ovver, stiks eever dere finger oar dere tow under the schnoz ov the ovver wu
 
 Den, de wun wiv dere eyes all cloased, has to gess what fingy is under dere schnoz.
 
-Iv dey gets it rite, den den win all der moeny. Oh yeah, der is betting.
+Iv dey gets it rite, den dey win all der moeny. Oh yeah, der is betting.
