@@ -17,8 +17,9 @@ Total population ~10,000
 
 ## Layout
 
-- 'The Speared Bull', run by Dython (black drache!zin) and Irreth (silver drach!zin), is the largest inn in the !holt.
+- 'The Glittering Horde' - run by Dython (black drache!zin) and Irreth (silver drach!zin), is the largest inn in the !holt.
   - Special drink: Virta - a date and An!grazi (a toxic desert lizard) spirit.
+- 'The Speared Bull', a small inn next to the Alley of Tears
 - Alley of Tears - largest street market - leads to RathKran Onyxclaw's subterranean lair.
 
 ## Leadership
