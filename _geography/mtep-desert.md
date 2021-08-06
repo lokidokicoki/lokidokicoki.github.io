@@ -21,27 +21,34 @@ summary: Large desert located in the west of the Spinwise Marches
 
 ## Places of note:
 
-### Tsz!kany
-- east-south-east of Faf!nyr, 
-- run by black/silver
-
 ### Faf!nyr
--central, run by blue/brass
 
+- Central, run by blue/brass
+- Most commonly visted drache!holt as it lies at at the crossroads leading to Charn to north, Tsz!kany to the east, The Mro'Gabtak Belt to the south and Sh!dan to the west.
+
+[More info]({% link _places/fafnyr.md %})
+
+
+### Tsz!kany
+
+- East-south-east of Faf!nyr, run by black/silver
+
+[More info]({% link _places/tszkany.md %})
 
 ### Ghi!drah
--northern most
--Run by Green/copper
+
+- northern most
+- Run by Green/copper
 
 
 ### Aj!daha
 
--south-west of Faf!nyr, run by red/gold
+- south-west of Faf!nyr, run by red/gold
 
 ### Sh!dan
 
--West-most, near the coast
--Run by white and bronze
+- West-most, near the coast
+- Run by white and bronze
 
 
 ## Features
