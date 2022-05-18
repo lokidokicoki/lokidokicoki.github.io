@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mendel
-summary: The Swift
+summary: The Swift, clearly an honourable and trustworthy individual
 ---
 
 - Rogue/bard
