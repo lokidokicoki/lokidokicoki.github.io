@@ -41,6 +41,8 @@ collections:
     output: true
   places:
     output: true
+  gods:
+    output: true
   misc:
     output: true
 
