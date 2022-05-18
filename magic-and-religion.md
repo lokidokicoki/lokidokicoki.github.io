@@ -10,33 +10,11 @@ The principle deities of Hyluria are known as the Siexta (^Truar), or the Six (U
 
 The same deities appear to all races, but in the guise of their race, therefore a Silva^truar praying to Rakshi would see an ancient Silva^truar male.
 
-### Althwinn
-- Paladins,fighters, clerics
-- Male or female, same as character
-- Dominating, ageless
-- Chief deity of the Hylurian Empire
+Of course, there are rumours of other, older (elder, if you will) gods.... But those are just rumours. 
 
-### Sibelius the Bright
-- Sorcerer, warlock, wizards; those who deal with the magical arts
-- Old Male
-- Intelligent, Quick tempered, Bored easily, Peevish
 
-### Rakshi the Kind
-- Cleric/Druid/monks
-- Old male
-- Benevolent
+{% for item in site.gods %}
+<h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
+{{ item.summary }}
+{% endfor %}
 
-### Mendel the Swift
-- Rogue/bard
-- Young Female
-- Quick witted, Cocky
-
-### Grayfoot the Quiet 
-- Rogue/ranger
-- Middle aged Male
-- Quiet, not wordy
-
-### KrayVax the Destroyer
-- Fighter/barbarian
-- Middle aged Female
-- Gruff, brash
