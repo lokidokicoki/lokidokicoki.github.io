@@ -11,6 +11,7 @@ summary: Large desert located in the west of the Spinwise Marches
 - Description: Morocco/Sahara, scattered oases and Drache!holts (major cities)
 - There are few roads in the desert; those that exists, link the Drache!holts together and provide access to the North and South.
 
+![M!tep Desert](/assets/mtep_desert_v1.jpg)
 
 ### Location
 
@@ -57,7 +58,7 @@ summary: Large desert located in the west of the Spinwise Marches
 
 Several oases are dotted around the desert, these provide one of few sources of clean water in the region.
 
-### Kh!ze!dum
+### Kh!za!dum
 
 An ancient Drache temple, a dark and foreboding place. 
 
