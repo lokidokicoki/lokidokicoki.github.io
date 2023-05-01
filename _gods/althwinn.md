@@ -4,10 +4,6 @@ title: Althwinn
 summary: The Most-high 
 ---
 
-<em>
-""
-</em>
-
 ## Summary
 
 Althwinn is the head of the Six and the chief deity of the Hylurian Empire. 
