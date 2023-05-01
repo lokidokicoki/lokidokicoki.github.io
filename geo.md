@@ -27,3 +27,12 @@ The world map taken from "A traveller's diary by Grundel Hammerkin"
 {{ soc.summary }}
 {% endif %}
 {% endfor %}
+
+<h2>Other</h2>
+
+{% for soc in site.geography %}
+{% if soc.continent == "other" %}
+<h3><a href="{{ soc.url }}">{{ soc.title }}</a></h3>
+{{ soc.summary }}
+{% endif %}
+{% endfor %}

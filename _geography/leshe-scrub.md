@@ -2,6 +2,7 @@
 layout: page
 title: Le'She Scrub
 summary: Eastern equatorial country
+continent: spin
 ---
 
 ## Summary

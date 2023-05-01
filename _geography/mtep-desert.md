@@ -2,6 +2,7 @@
 layout: page
 title: M!tep Desert
 summary: Large desert located in the west of the Spinwise Marches
+continent: spin
 ---
 
 ## Summary

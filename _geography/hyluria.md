@@ -2,6 +2,7 @@
 layout: page
 title: Hyluria
 summary: Central country, home of the Imperial City of Hylur
+continent: spin
 ---
 
 ## Summary

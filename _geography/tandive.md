@@ -2,6 +2,7 @@
 layout: page
 title: Tandive
 summary: Second largest Urman country
+continent: spin
 ---
 
 ## Summary
