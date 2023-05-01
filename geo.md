@@ -10,8 +10,19 @@ The world map taken from "A traveller's diary by Grundel Hammerkin"
 
 ![The World](/assets/full-world-map.jpg)
 
+<h2>Spinwise Marches</h2>
+
 {% for soc in site.geography %}
 {% if soc.continent == "spin" %}
+<h3><a href="{{ soc.url }}">{{ soc.title }}</a></h3>
+{{ soc.summary }}
+{% endif %}
+{% endfor %}
+
+<h2>Ripwise Lands</h2>
+
+{% for soc in site.geography %}
+{% if soc.continent == "rip" %}
 <h3><a href="{{ soc.url }}">{{ soc.title }}</a></h3>
 {{ soc.summary }}
 {% endif %}
