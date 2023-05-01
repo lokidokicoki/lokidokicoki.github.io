@@ -86,3 +86,8 @@ The Eels are distinct in character, each has a central fortified structure surro
 - Trainers in all martial arts
 - Temple to KrayVax
 
+The Imperial City of Hylur taken from "A traveller's diary by Grundel Hammerkin"
+
+![Imperial City of Hylur](/assets/imperial-city.jpg)
+
+![Imperial City detail](/assets/imperial-city-detail.jpg)
