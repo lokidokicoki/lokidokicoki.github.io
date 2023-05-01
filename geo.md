@@ -6,7 +6,9 @@ permalink: /geography/
 
 The there are two main continents, the Spinwise Marches and the Ripwise Lands
 
+![The World](/assets/full-world-map.jpg)
+
 {% for soc in site.geography %}
-<h2><a href="{{ soc.url }}">{{ soc.title }}</a></h2>
+<h3><a href="{{ soc.url }}">{{ soc.title }}</a></h3>
 {{ soc.summary }}
 {% endfor %}
