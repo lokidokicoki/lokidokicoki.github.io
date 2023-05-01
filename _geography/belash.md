@@ -2,6 +2,7 @@
 layout: page
 title: Be^lash
 summary: East coast country, inhabited by the ^Truar
+continent: spin
 ---
 
 ## Summary
