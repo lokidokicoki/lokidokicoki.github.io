@@ -4,10 +4,6 @@ title: Grayfoot
 summary: The Quiet, the hunter, the whisper on the wind
 ---
 
-<em>
-""
-</em>
-
 ## Summary
 
 Grayfoot is the hunter of the Six, he is the patron of Rangers and, on occasion, Rogues.
