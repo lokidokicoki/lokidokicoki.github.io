@@ -13,4 +13,6 @@ Grayfoot appears as a middle aged male of the supplicant's race and of medium he
 He is usually seen wearing leather armour, a cloak and carrying a bow. 
 He is the truest shot of all the Six. 
 
+The Tracks of Grayfoot carved into floor of his temple.
+
 ![Tracks of Grayfoot](/assets/grayfoot-tracks-2.webp)
