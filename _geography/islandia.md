@@ -2,6 +2,7 @@
 layout: page
 title: Islandia
 summary: Northern polar expanse
+continent: other
 ---
 
 Very little is known about Islandia..

@@ -2,6 +2,7 @@
 layout: page
 title: Zr^nbel Steps
 summary: Archipelago leading into the Strandish Ocean
+continent: spin
 ---
 
 ## Summary

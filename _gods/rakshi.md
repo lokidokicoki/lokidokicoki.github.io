@@ -8,3 +8,6 @@ summary: The Kind, knowledgable in the healing arts
 - Old male
 - Benevolent
 
+The Staff of Rakshi carved in a temple door frame.
+
+![M!tep Desert](/assets/rakshi-staff.jpg)

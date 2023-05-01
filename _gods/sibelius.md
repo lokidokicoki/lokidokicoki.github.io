@@ -8,3 +8,6 @@ summary: The Bright, wielder of powers magick and arcane.
 - Old Male
 - Intelligent, Quick tempered, Bored easily, Peevish
 
+An alter ornament depicting the Flame of Sibellius
+
+![Flame of Sibellius](/assets/sibellius-flame.jpg)

@@ -2,6 +2,7 @@
 layout: page
 title: Hyluria
 summary: Central country, home of the Imperial City of Hylur
+continent: spin
 ---
 
 ## Summary
@@ -15,6 +16,8 @@ summary: Central country, home of the Imperial City of Hylur
 - To the south; the [M!tep Desert]({%link _geography/mtep-desert.md%}) and the [Le'She Scrub]({%link _geography/leshe-scrub.md%})
 - To the east; [Be^lash]({%link _geography/belash.md%})
 - To the west: [Tandive]({%link _geography/tandive.md%})
+
+![Hyluria](/assets/Hylurian-empire.JPG)
 
 ## Places of note:
 

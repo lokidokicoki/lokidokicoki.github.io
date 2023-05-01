@@ -2,6 +2,7 @@
 layout: page
 title: Shirak Wastes
 summary: Northen tundra and mountains
+continent: spin
 ---
 
 ## Summary

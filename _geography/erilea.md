@@ -2,6 +2,7 @@
 layout: page
 title: Erilea
 summary: Eastern country nestled between the Mro'gabtak Belt and the Darak Wastes.
+continent: spin
 ---
 
 ## Summary

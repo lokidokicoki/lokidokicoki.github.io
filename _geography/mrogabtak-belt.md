@@ -2,6 +2,7 @@
 layout: page
 title: Mro'Gabtak Belt
 summary: Straddles the Spinwise Marches
+continent: spin
 ---
 
 ## Summary

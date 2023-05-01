@@ -2,6 +2,7 @@
 layout: page
 title: Darak Wastes
 summary: South of Mro'Gabtak Belt and Erilea
+continent: spin
 ---
 
 ## Summary
