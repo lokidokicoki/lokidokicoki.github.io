@@ -16,7 +16,7 @@ summary: Central country, home of the Imperial City of Hylur
 - To the east; [Be^lash]({%link _geography/belash.md%})
 - To the west: [Tandive]({%link _geography/tandive.md%})
 
-![Hyluria](/assets/hyluria-region.jpg)
+![Hyluria](/assets/Hylurian-empire.JPG)
 
 ## Places of note:
 
