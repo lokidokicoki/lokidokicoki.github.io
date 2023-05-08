@@ -12,6 +12,8 @@ summary: The brave adventurers currently causing trouble in Hyluria
 
 ## Tynluwurm the Iron-Scaled
 
+![Tinworm](/assets/tynluwurm-the-iron-scaled.png)
+
 "I am tinworm"
 
 Silver Drache!zin pit-fighter from Tsz!kany
@@ -24,9 +26,13 @@ A pet raven
 
 Half Ur'Ku, half Drya^truar Rogue, originally from Fah'Khan, grew up in Ik'Ran in the Skor'Dash scrub
 
+![Ulunnuh](/assets/ulunnuh-the-mad.png)
+
 ## Szithluon
 
 Bronze Drache!zin ranger from Sh!dan
+
+![Szithluon](/assets/szithluon.png)
 
 ### JiJi
 
@@ -35,6 +41,12 @@ Faithful Black panther companion
 ## Ningri Golith
 
 Nordzwergar wizard from (one of) the Zwergar stadts in the Shirak Wastes
+
+![Ningri Golith](/assets/ningri-golith.png)
+
+## Luas
+
+Erilean sorceror, definitely not a charlatan, nope, honest as the day is long.
 
 ---
 
