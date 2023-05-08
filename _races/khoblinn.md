@@ -9,4 +9,4 @@ d5e: Goblins
 
 -- Taken from "The Races of the Spinwise Marches" by Scholar Av^urel Lor^kas, -13HE.
 
-Traditionally the indentured servants of the Ur'Ku, the relationship between the Khob'Linn and the Ur'Ku has evolved from a slave caste to if not equal, then at least approaching equal.
+Traditionally the indentured servants of the Ur'Ku, the relationship between the Khob'Linn (or 'Goblin' in Common) and the Ur'Ku has evolved from a slave caste to if not equal, then at least approaching equal, worker class.
