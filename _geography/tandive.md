@@ -21,7 +21,8 @@ continent: spin
 ## Places of note:
 
 ### Fairhaven:
- One of the bigger settlements in Tandive. Mainly farmers, with the exception of two docks on the River Kiren, 
+
+One of the bigger settlements in Tandive. Mainly farmers, with the exception of two docks on the River Kiren, 
  
  - a blacksmiths with adjoining stables, 
  - a Temple to Rakshi, 
@@ -102,3 +103,13 @@ Fishing and farming
 
 ### Orfax:
 Fishing and farming
+
+## Maps
+
+Fairhaven - taken from "A traveller's diary by Grundel Hammerkin"
+
+![Fairhaven](/assets/fairhaven-tandive.jpg)
+
+Milbrook 
+
+![Milbrook](/assets/milbrook-tandive.JPG)
