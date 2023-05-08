@@ -5,6 +5,10 @@ summary: Central country, home of the Imperial City of Hylur
 continent: spin
 ---
 
+Hyluria - taken from "A traveller's diary by Grundel Hammerkin"
+
+![Hyluria](/assets/Hylurian-empire.JPG)
+
 ## Summary
 
 - History: settled in -???HE
@@ -17,8 +21,6 @@ continent: spin
 - To the east; [Be^lash]({%link _geography/belash.md%})
 - To the west: [Tandive]({%link _geography/tandive.md%})
 
-![Hyluria](/assets/Hylurian-empire.JPG)
-
 ## Places of note:
 
 ### Imperial City of Hylur:
@@ -27,38 +29,51 @@ Nestled in bow of K^ren River
 [More info]({% link _places/imperial-city-of-hylur.md %})
 
 ### Nornby:
-Most Northwesterly settlement.
-To the South west is are The Walkers
-Stage coach stop.
+
+Most Northern settlement in the region. 
+
+To the South west are The Walkers.
+
+Stage coach stop leading into the Kal^verthian Forest.
 
 ### Syrndar:
+
 Second largest town in Hyluria
 
 ### Brinn:
-Stage coach stop  between Imperial City and the twin towns of Sim^ran & Li^rn. Mainly farmers, a blacksmiths with adjoining stables, a Temple to Althwinn, an inn (The Travellers Rest), a town hall, bookshop, carpenters, masons, a general store, an undertakers, a guards station, houses and a market square.
+
+A stage coach stop between Imperial City and the twin towns of Sim^ran & Li^rn. 
+
+Mainly farmers, a blacksmiths with adjoining stables, a Temple to Althwinn, an inn (The Travellers Rest), a town hall, bookshop, carpenters, masons, a general store, an undertakers, a guards station, houses and a market square.
 
 [More info]({% link _places/brinn.md %})
 
 ### Carterby:
-Small village
-Farming
+
+A small farming village.
+
+![Carterby](/assets/carterby.jpg)
 
 ### Allerton:
-Third largest town in Hyluria
+
+Third largest town in Hyluria.
 
 [More info]({% link _places/allerton.md %})
 
 ### Gro!ert:
-crossroads stop
+
+A crossroads stop leading to the Le'She Scrub and Be^lash
 
 ### Y!lem:
-crossroads stop
+
+A crossroads stop leadig to Tandive and 
 
 ## Features:
 
 ### Deorcþeng:
-separate doc
+
+A dark fore-boding tower up high on the western edge of the Ferox valley.
 
 ### The Walkers:
-stone henge
-Ancient Druidic practices occurred here...
+
+Ancient Druidic practices occurred here amongst a cluster of standing stones.
