@@ -20,9 +20,10 @@ summary: Player-owned businesses
 - Stablehand: Ovark (Half Ur'Ku/Urman female)
 - Barback: Osk (kobold, male)
 
-## Tarriff
+## Tariff
 
 Maintenance cost: 7gp
+
 ### Accommodation
 
 - Stabling for 5 horses @ 5sp/day/stable
@@ -42,18 +43,17 @@ Maintenance cost: 7gp
 
 # The Middle Finger
 
-- Previously called The Traveller's Rest
+- Previously called The Farmer's Arms
 - Date acquired: 719HE/F16
 - Location: Carterby, Hylur
 - Franchise deal: 30% of profits are sent each Siexta to The Stiff Finger
 
 ## Staff
 
-- Landlord/barman: Albert Manzo (Wallace's son, Wallavce was killed in the bandit fight)
+- Landlord/barman: Albert Manzo (Wallace's son, Wallace was killed in the bandit fight)
 - Cook/barmaid: Hilda Manzo (Albert's mum)
 
-
-## Tarriff
+## Tariff
 
 Maintenance cost: 3gp
 

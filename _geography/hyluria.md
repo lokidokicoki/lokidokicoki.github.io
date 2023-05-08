@@ -66,14 +66,17 @@ A crossroads stop leading to the Le'She Scrub and Be^lash
 
 ### Y!lem:
 
-A crossroads stop leadig to Tandive and 
+A crossroads stop leading to Tandive and 
 
 ## Features:
+
+### The Walkers:
+
+Ancient Druidic practices occurred here amongst a cluster of standing stones.
 
 ### Deorcþeng:
 
 A dark fore-boding tower up high on the western edge of the Ferox valley.
 
-### The Walkers:
+![Deorctheng](/assets/deorctheng.jpg)
 
-Ancient Druidic practices occurred here amongst a cluster of standing stones.

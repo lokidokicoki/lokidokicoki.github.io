@@ -4,7 +4,10 @@ title: Allerton
 summary: The heavily fortified city of Allerton is a relic of the War of the Nehwist. Originally built to hold off the ^Truar forces during the war, the focus of the city has shifted somewhat to trade and commerce and is now the third largest city in Hylur. 
 ---
 
-The heavily fortified city of Allerton is a relic of the War of the Nehwist. Originally built to hold off the ^truar forces during the war, the focus of the city has shifted somewhat to trade and commerce and is now the third largest city in Hylur. 
+## Location
+
+South east of the Imperial City is the heavily fortified city of Allerton, a relic of the War of the Nehwist. 
+Originally built to hold off the ^truar forces during the war, the focus of the city has shifted somewhat to trade and commerce and is now the third largest city in Hylur. 
 
 The city boasts impressive walls and defensive towers guarding the original fortress that lies at the centre.
 

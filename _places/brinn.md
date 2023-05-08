@@ -5,7 +5,7 @@ summary: Stage coach stop  between Imperial City and the twin towns of Sim^ran &
 ---
 
 ## Location
-Stage coach stop  between Imperial City and the twin towns of Sim^ran & Li^rn. 
+A stage coach stop north east of the Imperial City, with onward traffic to the twinned towns of Sim^ran & Li^rn in Be^lash. 
 Mainly farmers, a blacksmiths with adjoining stables, a Temple to Althwinn, an inn (The Travellers Rest), a town hall, bookshop, carpenters, masons, a general store, an undertakers, a guards station, houses and a market square.
 
 #### The Travellers Rest

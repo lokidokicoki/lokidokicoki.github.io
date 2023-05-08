@@ -5,6 +5,10 @@ summary: East coast country, inhabited by the Truar
 continent: spin
 ---
 
+The Skor'Dash Scrub - taken from "A traveller's diary by Grundel Hammerkin"
+
+![Skor'Dash Scrub](/assets/skordash-scrub-region.jpg)
+
 ## Summary
 
 - History: 

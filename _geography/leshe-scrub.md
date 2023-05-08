@@ -5,6 +5,10 @@ summary: Eastern equatorial country
 continent: spin
 ---
 
+The Le'She Scrub - taken from "A traveller's diary by Grundel Hammerkin"
+
+![Le'She Scrub](/assets/leshe-scrub-full-map.jpg)
+
 ## Summary
 History: settled in -????HE
 - Principal inhabitants: [Sudhz Ur'Ku]({%link _races/urku.md%})

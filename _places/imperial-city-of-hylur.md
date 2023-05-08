@@ -23,8 +23,6 @@ Total population: 25,000
 - 5% Zwergar
 - 2% other
 
-
-
 ### The Thorns
 
 The Thorns are more built up and crowded, like the East End, lots of small shops and open market stalls.

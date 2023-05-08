@@ -7,7 +7,7 @@ continent: spin
 
 The M!tep Desert adapted from "A traveller's diary by Grundel Hammerkin"
 
-![M!tep Desert](/assets/mtep_desert_v1.jpg)
+![M!tep Desert](/assets/mtep-desert-full.jpg)
 
 ## Summary
 
@@ -61,10 +61,11 @@ The M!tep Desert adapted from "A traveller's diary by Grundel Hammerkin"
 
 Several oases are dotted around the desert, these provide one of few sources of clean water in the region.
 
+### Gr!pen Moor
+
+A remanent of the Great Scourge, an area of desert known as the Shadowfall, a large blackened plain of glassed sand. Nothing lives here, nothing magical works here….
+
 ### Kh!za!dum
 
 An ancient Drache temple, a dark and foreboding place. 
 
-### Gr!pen Moor
-
-A remanent of the Great Scourge, an area of desert known as the Shadowfall, a large blackened plain of glassed sand. Nothing lives here, nothing magical works here….

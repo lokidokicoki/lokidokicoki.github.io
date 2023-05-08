@@ -5,6 +5,10 @@ summary: Second largest Urman country
 continent: spin
 ---
 
+Tandive - taken from "A traveller's diary by Grundel Hammerkin"
+
+![Tandive](/assets/tandive-full.jpg)
+
 ## Summary
 
 - History: settled in -34HE, originally part of the Hylurian Empire before gaining independence in 212HE

@@ -4,15 +4,15 @@ title: Tsz!kany
 summary: Central drache!holt in the M!tep Desert. Run by blue and brass Drache.
 ---
 
-Tsz!kany is the east-most drache!holt in the M!tep Desert.  It is the most commonly visted drache!holt as it lies at at the crossroads leading to Charn to north, Tsz!kany to the east, the Mro'Gabtak Belt to the south and Sh!dan to the west.
+Tsz!kany is the east-most drache!holt in the M!tep Desert.  
 THe !holt is run by black and silver Drache.
 
 ## Demographics
 Total population ~10,000
 - 70% Drache!zin
 - 10% Drache
-- 10% UR'ku
-- 5% /Khob'linn
+- 10% Ur'ku
+- 5% Khob'linn
 - 5% Urman
 
 ## Layout
