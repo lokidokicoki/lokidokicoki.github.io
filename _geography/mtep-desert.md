@@ -5,14 +5,16 @@ summary: Large desert located in the west of the Spinwise Marches
 continent: spin
 ---
 
+The M!tep Desert adapted from "A traveller's diary by Grundel Hammerkin"
+
+![M!tep Desert](/assets/mtep_desert_v1.jpg)
+
 ## Summary
 
 - History: settled in ??? HE
 - Inhabitants: [Drache!zin]({%link _races/drachezin.md%}) and Drache
 - Description: Morocco/Sahara, scattered oases and Drache!holts (major cities)
 - There are few roads in the desert; those that exists, link the Drache!holts together and provide access to the North and South.
-
-![M!tep Desert](/assets/mtep_desert_v1.jpg)
 
 ### Location
 
