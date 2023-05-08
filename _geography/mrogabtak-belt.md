@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mro'Gabtak Belt
-summary: Straddles the Spinwise Marches
+summary: Straddles the Spinwards Marches
 continent: spin
 ---
 

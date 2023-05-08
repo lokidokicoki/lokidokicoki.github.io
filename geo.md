@@ -4,13 +4,13 @@ title: Geography
 permalink: /geography/
 ---
 
-The there are two main continents, the Spinwise Marches and the Ripwise Lands
+The there are two main continents, the Spinwards Marches and the Ripwise Lands
 
 The world map taken from "A traveller's diary by Grundel Hammerkin"
 
 ![The World](/assets/full-world-map.jpg)
 
-<h2>Spinwise Marches</h2>
+<h2>Spinwards Marches</h2>
 
 {% for soc in site.geography %}
 {% if soc.continent == "spin" %}

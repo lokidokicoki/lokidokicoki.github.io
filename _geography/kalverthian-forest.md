@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kal^verthian Forest
-summary: Dense forest spanning the northern Spinwise Marches
+summary: Dense forest spanning the northern Spinwards Marches
 continent: spin
 ---
 

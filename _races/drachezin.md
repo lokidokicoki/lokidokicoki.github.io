@@ -7,7 +7,7 @@ d5e: Dragonborn
 
 <em>The Drache!zin look very much like Drache standing erect in humanoid form, though they lack wings or a tail.</em>
 
--- Taken from "The Races of the Spinwise Marches" by Scholar Av^urel Lor^kas, -13HE.
+-- Taken from "The Races of the Spinwards Marches" by Scholar Av^urel Lor^kas, -13HE.
 
 The Drachen (or 'Dragons' in Common) were the first race to exist in the world, formed by the gods in early glimmers of creation. Their long lifespans have allowed them to see the continents dance and shimmy across the oceans, over many millennia, reshaping the land into what we see today. 
 
