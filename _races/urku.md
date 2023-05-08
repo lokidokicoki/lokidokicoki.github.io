@@ -10,9 +10,11 @@ d5e: Orcs
 -- Taken from "The Races of the Spinwise Marches" by Scholar Av^urel Lor^kas, -13HE.
 
 
-Ur'Ku society is based around the clan (Tuuk) lead by a clan head (Tuuk'Mo'Tak). Each clan is devoted to at least one deity. Warriors are the elite of the clan, but unlike some cultures, other callings are regarded with equal footing. Each clan has a clan hood or Tuuk'Grav, an urbanised settlement, usually surrounded by a handful of smaller settlements.
+Ur'Ku (or 'Orc' in Common) society is based around the clan (Tuuk) lead by a clan head (Tuuk'Mo'Tak). Each clan is devoted to at least one deity. Warriors are the elite of the clan, but unlike some cultures, other callings are regarded with equal footing. Each clan has a clan hood or Tuuk'Grav, an urbanised settlement, usually surrounded by a handful of smaller settlements.
 
 These smaller settlements are centres of farming, mainly done by [Khob'Linn]({% link _races/khoblinn.md %}) servants.
+
+## Known Tuuks
 
 Tuuk of [Skor'Dash Scrub]({% link _geography/skordash-scrub.md %}):
 
@@ -31,3 +33,20 @@ Tuuks of [Le'She Scrub]({% link _geography/leshe-scrub.md %}):
 - Broken Arrow: Althwinn
 
 See [here for deities]({% link magic-and-religion.md %})
+
+## Tuuk Banners
+
+![Whispering Eye](/assets/whispering-eye.png)
+The Whispering Eye
+
+![Razor Fang](/assets/razor-fang.png)
+Razor Fang
+
+![Hounds of Sto'Vo'Kor](/assets/hounds-of-stovokor.png)
+Hounds of Sto'Vo'Kor
+
+![Bloodied Claw](/assets/bloodied-claw.png)
+Bloodied Claw
+
+![Sons of Feh'kir](/assets/sons-of-fehkir.png)
+Sons of Feh'kir
