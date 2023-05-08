@@ -5,6 +5,10 @@ summary: Dense forest spanning the northern Spinwise Marches
 continent: spin
 ---
 
+The Kal^verthain Foreset taken from "A traveller's diary by Grundel Hammerkin"
+
+![Kal^verthain Forest](/assets/kalverthian-forest.jpg)
+
 ## Summary
 - History: settled in -????HE
 - Principal inhabitants: [Drya^tru]({%link _races/truar.md%})
