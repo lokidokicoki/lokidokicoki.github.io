@@ -10,3 +10,5 @@ d5e: Elf
 -- Taken from "The Races of the Spinwise Marches" by Scholar Av^urel Lor^kas, -13HE.
 
 The ^Truar (or 'Elves' in Common) Have been forced to the margins of the Spinwise Marches; Be^lash in the East and the Kal^verthian Forest in the North. They still travel the world, enclaves exist in most of the larger cities and towns throught Hylur. 
+
+![Per^doth](/assets/peridoth-belash.jpg)
