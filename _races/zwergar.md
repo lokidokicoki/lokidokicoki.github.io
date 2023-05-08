@@ -12,4 +12,5 @@ d5e: Dwarves
 The Zwergar (or 'Dwarves' in Common) are gifted artificers and builders of legend. They reside under the mountainous northern Shirak Wastes and souther Darak Wastes, behind the Osbsidanes Gata. From here they have ventured forth as tramp artificers, merchants of material and skill.
 
 The Obsidanes Gata
+
 ![Obsidanes Gata](/assets/obsidian-gates-shirak.jpg)
