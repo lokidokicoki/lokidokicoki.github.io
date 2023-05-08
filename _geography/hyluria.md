@@ -5,7 +5,7 @@ summary: Central country, home of the Imperial City of Hylur
 continent: spin
 ---
 
-Hyluria - taken from "A traveller's diary by Grundel Hammerkin"
+The Hylurian Empire - taken from "A traveller's diary by Grundel Hammerkin"
 
 ![Hyluria](/assets/Hylurian-empire.JPG)
 
