@@ -1,7 +1,7 @@
 ---
 layout: page
 title: M!tep Desert
-summary: Large desert located in the west of the Spinwards Marches
+summary: Large desert located in the west of the Spinward Marches
 continent: spin
 ---
 

@@ -7,7 +7,7 @@ d5e: Orcs
 
 <em>"Ur'Ku are savage humanoids with stooped postures, piggish faces, and prominent teeth that resemble tusks. They gather in tribes that satisfy their bloodlust by slaying any humanoids that stand against them."</em>
 
--- Taken from "The Races of the Spinwards Marches" by Scholar Av^urel Lor^kas, -13HE.
+-- Taken from "The Races of the Spinward Marches" by Scholar Av^urel Lor^kas, -13HE.
 
 
 Ur'Ku (or 'Orc' in Common) society is based around the clan (Tuuk) lead by a clan head (Tuuk'Mo'Tak). Each clan is devoted to at least one deity. Warriors are the elite of the clan, but unlike some cultures, other callings are regarded with equal footing. Each clan has a clan hood or Tuuk'Grav, an urbanised settlement, usually surrounded by a handful of smaller settlements.
