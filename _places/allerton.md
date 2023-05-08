@@ -42,3 +42,8 @@ Baron Felix Harkin: mid 40's powerful build, 6'4" warrior diplomat, carousing
 Praetor Jeremiah Torquill: late 70's wheezy, intelligent but sometimes slow on the uptake
 Andraste Casilltenirra: 210, aloof but pleasant, quiet.
 
+## Map
+
+Allerton taken from "A traveller's diary by Grundel Hammerkin"
+
+![Allerton](/assets/allerton.jpg)
