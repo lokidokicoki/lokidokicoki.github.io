@@ -18,3 +18,6 @@ A offering box decorated with the Glyph of Althwinn inlaid with pearl and onyx
 
 ![Glyph of Althwinn](/assets/althwinn-glyph.jpg)
 
+## Gifts
+
+Althwinn adherents are gifted with additional wisdom, but faith takes it toll, leacing them with a weakened constitution.

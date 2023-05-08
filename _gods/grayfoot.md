@@ -16,3 +16,7 @@ He is the truest shot of all the Six.
 The Tracks of Grayfoot carved into floor of his temple.
 
 ![Tracks of Grayfoot](/assets/grayfoot-tracks-2.webp)
+
+## Gifts
+
+True followers of Grayfoot are either more dextrous or capable of saving themselves in tight situations. However, they are no longer as strong as they once were.
