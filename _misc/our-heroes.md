@@ -12,7 +12,7 @@ summary: The brave adventurers currently causing trouble in Hyluria
 
 ## Tynluwurm the Iron-Scaled
 
-![Tinworm](/assets/tynluwurn-the-iron-scaled.png)
+![Tynluwurm](/assets/tynluwurn-the-iron-scaled.png)
 
 "I am tinworm"
 
