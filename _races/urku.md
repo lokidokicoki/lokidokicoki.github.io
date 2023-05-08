@@ -48,5 +48,5 @@ Hounds of Sto'Vo'Kor
 ![Bloodied Claw](/assets/bloodied-claw.png)
 Bloodied Claw
 
-![Sons of Feh'kir](/assets/sons-of-fehkir-small.png)
+![Sons of Feh'kir](/assets/sons-of-fehkir-small.jpg)
 Sons of Feh'kir
