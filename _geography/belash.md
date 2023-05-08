@@ -5,6 +5,10 @@ summary: East coast country, inhabited by the ^Truar
 continent: spin
 ---
 
+Be^lash - taken from "A traveller's diary by Grundel Hammerkin"
+
+![Be^lash](/assets/belash-region.jpg)
+
 ## Summary
 
 - History: settled in -3890HE
