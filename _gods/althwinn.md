@@ -20,4 +20,4 @@ A offering box decorated with the Glyph of Althwinn inlaid with pearl and onyx
 
 ## Gifts
 
-Althwinn adherents are gifted with additional wisdom, but faith takes it toll, leacing them with a weakened constitution.
+Althwinn adherents are gifted with additional wisdom, but faith takes it toll, leaving them with a weakened constitution.

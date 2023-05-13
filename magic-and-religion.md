@@ -10,7 +10,7 @@ The principle deities of Hyluria are known as the Siexta (^Truar), or the Six (U
 
 The same deities appear to all races, but in the guise of their race, therefore a Silva^truar praying to Rakshi would see an ancient Silva^truar male.
 
-Of course, there are rumours of other, older (elder, if you will) gods.... But those are just rumours. 
+Of course, there are rumours of other, older (elder, if you will), fallen gods.... But those are just rumours. 
 
 
 {% for item in site.gods %}
