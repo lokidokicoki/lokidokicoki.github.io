@@ -57,7 +57,7 @@ twin cities joined by a bridge over the River K^ren. Docks
 
 Southern capital
 
-\[More info]\({% link \_places/per-doth.md %})
+[More info](places/per-doth)
 
 ### Lisk^rth:
 
