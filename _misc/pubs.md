@@ -4,12 +4,13 @@ title: The 'Finger' Franchise
 summary: Player-owned businesses
 ---
 
-# The Stiff Finger 
+# The Stiff Finger
 
 - Previously called Ye Olde Weathered Spoone.
 - Date acquired: 719HE/F01.
 - Location: Mendel Hexant, The Thorns, Imperial City, Hylur.
-- Franchise deal: Goran receives 10% of the profits as pay for running the place.
+- Franchise deal: Goran receives 10% of the profits as pay for running the
+  place.
 
 ## Staff
 
@@ -17,8 +18,8 @@ summary: Player-owned businesses
 - Cook: Jeffry the Cheffry (Urman male)
 - Minstrel: Mariel Hanarli (Drya^truar female)
 - Barmaid: Shadbak (Ur'Ku female)
-- Stablehand: Ovark (Half Ur'Ku/Urman female)
-- Barback: Osk (kobold, male)
+- Stable hand: Ovark (Half Ur'Ku/Urman female)
+- Bar back: Osk (kobold, male)
 
 ## Tariff
 
@@ -50,7 +51,8 @@ Maintenance cost: 7gp
 
 ## Staff
 
-- Landlord/barman: Albert Manzo (Wallace's son, Wallace was killed in the bandit fight)
+- Landlord/barman: Albert Manzo (Wallace's son, Wallace was killed in the bandit
+  fight)
 - Cook/barmaid: Hilda Manzo (Albert's mum)
 
 ## Tariff

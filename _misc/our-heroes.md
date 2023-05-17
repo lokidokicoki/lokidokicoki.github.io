@@ -8,6 +8,7 @@ summary: The brave adventurers currently causing trouble in Hyluria
 
 - Battle Arena Champions 719HE
 - Heroes of Carterby
+
 # Current party members
 
 ## Tynluwurm the Iron-Scaled
@@ -24,7 +25,8 @@ A pet raven
 
 ## Ulunnuh the Mad
 
-Half Ur'Ku, half Drya^truar Rogue, originally from Fah'Khan, grew up in Ik'Ran in the Skor'Dash scrub
+Half Ur'Ku, half Drya^truar Rogue, originally from Fah'Khan, grew up in Ik'Ran
+in the Skor'Dash scrub
 
 ![Ulunnuh](/assets/ulunnuh-the-mad.png)
 
@@ -46,7 +48,7 @@ Nordzwergar wizard from (one of) the Zwergar stadts in the Shirak Wastes
 
 ## Luas
 
-Erilean sorceror, definitely not a charlatan, nope, honest as the day is long.
+Erilean sorcerer, definitely not a charlatan, nope, honest as the day is long.
 
 ---
 
@@ -54,11 +56,13 @@ Erilean sorceror, definitely not a charlatan, nope, honest as the day is long.
 
 ## OBD
 
-Enigmatic Half-Silva^truar bard. Disappeared into swirly coloured-lighty thing. Current whereabouts; unknown.
+Enigmatic Half-Silva^truar bard. Disappeared into swirly coloured-lighty thing.
+Current whereabouts; unknown.
 
 ## Celasar Suva
 
-Silva^truar wizard. Current whereabouts; Imperial Citadel, researching the Grithryx.
+Silva^truar wizard. Current whereabouts; Imperial Citadel, researching the
+Grithryx.
 
 ## Chelataur
 

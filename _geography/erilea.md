@@ -1,22 +1,23 @@
 ---
 layout: page
 title: Erilea
-summary: Eastern country nestled between the Mro'gabtak Belt and the Darak Wastes.
+summary:
+  Eastern country nestled between the Mro'gabtak Belt and the Darak Wastes.
 continent: spin
 ---
 
 ## Summary
 
 - History: settled in -???HE
-- Principal inhabitants: [Suuther Urman]({%link _races/urman.md%})
+- Principal inhabitants: [Suuther Urman](/races/urman)
 - Description: Think Jordan
-
 
 ### Location
 
-- To the north; [Tandive]({%link _geography/tandive.md%}) and the [Skor'Dash Scrub]({%link _geography/skordash-scrub.md%})
-- To the south; [Mro'Gabtak Belt]({%link _geography/mrogabtak-belt.md%})
-- To the east; [Le'She Scrub]({%link _geography/leshe-scrub.md%})
+- To the north; [Tandive](/geography/tandive) and the
+  [Skor'Dash Scrub](/geography/skordash-scrub)
+- To the south; [Mro'Gabtak Belt](/geography/mrogabtak-belt) To the east;
+  [Le'She Scrub](/geography/leshe-scrub)
 - To the west; The Bli'Karur Ocean
 
 ## Places of note:

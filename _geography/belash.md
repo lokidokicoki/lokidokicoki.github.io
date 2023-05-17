@@ -12,7 +12,7 @@ Be^lash - taken from "A traveller's diary by Grundel Hammerkin"
 ## Summary
 
 - History: settled in -3890HE
-- Principal inhabitants: [Silva^tru](races/truar)
+- Principal inhabitants: [Silva^tru](/races/truar)
 - rolling green hills and fallow meadows, spring flowers and stands of fruit
   trees. Imagine Wales when it isn't raining :D
 
@@ -27,51 +27,51 @@ Be^lash - taken from "A traveller's diary by Grundel Hammerkin"
 - To the west: the K^ren River runs through the
   [Hylurian Empire](/geography/hyluria).
 
-## Places of note:
+## Places of note
 
-### Arc^s:
+### Arc^s
 
 - Northernmost town in region.
 - Finest archers in all of Be^lash
 - NB: some Nordzwergar
 
-### Per^nporth:
+### Per^nporth
 
 - Northeastern coastal town
 - Fishing
 - Trade ships out to the islands in the Strandish Ocean
 
-### Ad^mas:
+### Ad^mas
 
 Northern capital
 
-### Fe^run:
+### Fe^run
 
 Crossroads town
 
-### Lir^an & Sim^ran:
+### Lir^an & Sim^ran
 
 twin cities joined by a bridge over the River K^ren. Docks
 
-### Per^doth:
+### Per^doth
 
 Southern capital
 
-[More info](places/per-doth)
+[More info](/places/per-doth)
 
-### Lisk^rth:
+### Lisk^rth
 
 - Southeastern coastal town.
 - Fishing
 - Voyages out to Zr^nbel Steps
 
-### Tib^roth:
+### Tib^roth
 
 Southernmost village Near Le'she Scrub.
 
-## Features:
+## Features
 
-### Re^leh Delta:
+### Re^leh Delta
 
 The River K^ren divides and divides, creating a delta, and maze of river ways
 and islets.
