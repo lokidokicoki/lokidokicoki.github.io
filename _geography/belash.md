@@ -18,14 +18,14 @@ Be^lash - taken from "A traveller's diary by Grundel Hammerkin"
 
 ### Location
 
-- To the north: a dense deciduous wood leading into the \[Kal^verthian
-  Forest]\({% link \_geography/kalverthian-forest.md %}).
-- To the south: the \[Zr^nbel
-  Mountains]\({%link \_geography/zrinbel-steps.md %}) (Urman: The Razorback).
+- To the north: a dense deciduous wood leading into the
+  [Kal^verthian Forest]({geography/kalverthian-forest).
+- To the south: the [Zr^nbel Mountains](geography/zrinbel-steps) (Urman: The
+  Razorback).
 - To the east: the Strandish Ocean. The K^ren River (in Common, Kiren River)
   empties into the ocean via the Ry^leh Delta, a web of rivers and islets.
-- To the west: the K^ren River runs through the \[Hylurian
-  Empire]\({%link \_geography/hyluria.md%}).
+- To the west: the K^ren River runs through the
+  [Hylurian Empire](geography/hyluria).
 
 ## Places of note:
 
