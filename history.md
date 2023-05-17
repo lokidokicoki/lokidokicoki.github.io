@@ -1,7 +1,7 @@
 ---
-
-layout: page title: History permalink: /history/
-
+layout: page
+title: History
+permalink: /history/
 ---
 
 <em>
