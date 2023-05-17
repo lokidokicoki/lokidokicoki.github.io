@@ -4,7 +4,7 @@ title: Dramatis personae
 summary: Notable individuals in Hylur
 ---
 
-## Empress Lyra of Hyluria.
+## Empress Lyra of Hyluria
 
 - middle aged (probably), Urman female, black hair.
 - Clever, quick witted.
@@ -82,3 +82,5 @@ summary: Notable individuals in Hylur
 ## Ningri Golith
 
 ## Luas
+
+## Graxari

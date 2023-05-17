@@ -15,6 +15,6 @@ continent: spin
 
 ### Location
 
-## Places of note:
+## Places of note
 
 TBD

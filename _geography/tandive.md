@@ -25,9 +25,9 @@ Tandive - taken from "A traveller's diary by Grundel Hammerkin"
 - To the east; [Hylur](/geography/hyluria)
 - To the west; [Skor'Dash Scrub](/geography/skordash-scrub)
 
-## Places of note:
+## Places of note
 
-### Fairhaven:
+### Fairhaven
 
 One of the bigger settlements in Tandive. Mainly farmers, with the exception of
 two docks on the River Kiren,
@@ -45,7 +45,7 @@ two docks on the River Kiren,
 - a market square
 - a smattering of houses
 
-### Trest:
+### Trest
 
 Stage coach stop south of Fairhaven
 
@@ -55,7 +55,7 @@ Stage coach stop south of Fairhaven
 - Tavern - Empires Reach
 - Apothecary
 
-### Milbrook:
+### Milbrook
 
 - Tavern (Farmer's Arms) - run by Gyron Wiest, Headman of the village
 - Shrine to Rakshi
@@ -63,14 +63,14 @@ Stage coach stop south of Fairhaven
 - 3 farms
 - Small number of houses
 
-### Fleet:
+### Fleet
 
 A river lock with a boat house for repairs
 
 - Lock keepers cottage
 - Small pub - The Lock
 
-### Gwennap:
+### Gwennap
 
 farm village
 
@@ -79,14 +79,14 @@ farm village
 - Small shrine to Grayfoot
 - Food shop
 
-### Beam:
+### Beam
 
 Farm village near marshes
 
 - Tavern - River rat
 - Hedge witch - Mizrabel Weaver
 
-### Wantz:
+### Wantz
 
 Slightly smaller than Fairhaven
 
@@ -100,9 +100,9 @@ Slightly smaller than Fairhaven
 - Market square
 - Guard station
 
-### Charn:
+### Charn
 
-- Tavern - The Kha'laal
+- Tavern - The Kha'Laal
 - Stables
 - Small market square
 - Date palm farms
@@ -110,7 +110,7 @@ Slightly smaller than Fairhaven
 - Cartwright
 - NB: some Drache!zin present
 
-### Sorby:
+### Sorby
 
 Fishing and farming
 
@@ -119,7 +119,7 @@ Fishing and farming
 - Rope maker
 - Dried fish
 
-### Orfax:
+### Orfax
 
 Fishing and farming
 

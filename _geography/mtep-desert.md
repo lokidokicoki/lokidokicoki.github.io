@@ -34,13 +34,13 @@ The M!tep Desert adapted from "A traveller's diary by Grundel Hammerkin"
   Charn to north, Tsz!kany to the east, The Mro'Gabtak Belt to the south and
   Sh!dan to the west.
 
-\[More info]\({% link \_places/fafnyr.md %})
+[More info](/places/fafnyr)
 
 ### Tsz!kany
 
 - East-south-east of Faf!nyr, run by black/silver
 
-\[More info]\({% link \_places/tszkany.md %})
+[More info](/places/tszkany)
 
 ### Ghi!drah
 

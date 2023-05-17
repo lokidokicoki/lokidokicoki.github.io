@@ -25,7 +25,7 @@ Total population \~10,000
 - 70% Urman
 - 15% ^truar
 - 10% Ur'Ku and Khob'Linn
-- 5% other (Zwerg, Drache'zin)
+- 5% other (Zwerg, Drache!zin)
 
 ## Layout
 

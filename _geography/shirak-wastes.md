@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Shirak Wastes
-summary: Northen tundra and mountains
+summary: Northern tundra and mountains
 continent: spin
 ---
 
 ## Summary
 
 - History: settled in -4000HE
-- Inhabitants: \[Nordzwergar]\({}%link \_races/zwergar.md%)
+- Inhabitants: [Nordzwergar](/races/zwergar)
 - Description: tundra, Mountains, icy, snowy
 
 ### Location
@@ -19,7 +19,7 @@ continent: spin
 - To the east; ...
 - To the west; ...
 
-## Places of note:
+## Places of note
 
 TBD
 

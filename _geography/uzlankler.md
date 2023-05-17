@@ -14,7 +14,7 @@ A dangerous place.... Very dangerous.
 
 ### Location
 
-- To the north; \[Xindao]
+- To the north; [Xindao](/geography/xindao)
 - To the south; [Qthethyl](/geography/qthethyl)
 - To the east; ???
 - To the west; Strandish Ocean

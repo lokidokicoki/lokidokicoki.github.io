@@ -6,7 +6,7 @@ summary: Player-owned businesses
 
 # The Stiff Finger
 
-- Previously called Ye Olde Weathered Spoone.
+- Originally called Ye Olde Weathered Spoone.
 - Date acquired: 719HE/F01.
 - Location: Mendel Hexant, The Thorns, Imperial City, Hylur.
 - Franchise deal: Goran receives 10% of the profits as pay for running the
@@ -44,7 +44,7 @@ Maintenance cost: 7gp
 
 # The Middle Finger
 
-- Previously called The Farmer's Arms
+- Originally called The Farmer's Arms
 - Date acquired: 719HE/F16
 - Location: Carterby, Hylur
 - Franchise deal: 30% of profits are sent each Siexta to The Stiff Finger

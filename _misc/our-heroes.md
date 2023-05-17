@@ -36,7 +36,7 @@ Bronze Drache!zin ranger from Sh!dan
 
 ![Szithluon](/assets/szithluon.png)
 
-### JiJi
+### Jiji
 
 Faithful Black panther companion
 
@@ -49,6 +49,10 @@ Nordzwergar wizard from (one of) the Zwergar stadts in the Shirak Wastes
 ## Luas
 
 Erilean sorcerer, definitely not a charlatan, nope, honest as the day is long.
+
+## Graxari
+
+An Ur'Ku bard-barian hailing from Dar'Sek
 
 ---
 
