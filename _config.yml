@@ -30,21 +30,28 @@ github_username:  lokidokicoki
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: page-themes/merlot@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-relative-links
 
 collections:
   races:
     output: true
+    permalink: /:collection/:name
   geography:
     output: true
+    permalink: /:collection/:name
   places:
     output: true
+    permalink: /:collection/:name
   gods:
     output: true
+    permalink: /:collection/:name
   misc:
     output: true
+    permalink: /:collection/:name
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
