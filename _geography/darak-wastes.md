@@ -13,7 +13,7 @@ continent: spin
 
 ### Location
 
-- To the north; [Mro'Gabtak Belt]({geography/mrogabtak-belt)
+- To the north; [Mro'Gabtak Belt](geography/mrogabtak-belt)
 - To the south; [Cerulia](geography/cerulia.md)
 - To the east; the Strandish Ocean
 - To the west; The Bli'Karur Ocean
