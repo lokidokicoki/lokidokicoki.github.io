@@ -20,40 +20,40 @@ History: settled in -????HE
 
 - To the north; [Be^lash](/geography/belash)
 - To the south; [Mro'Gabtak Belt](/geography/mrogabtak-belt)
-- To the east; [Zr^nbel Steps](/geography/zrinbel-steps) and the Strandish OCean
+- To the east; [Zr^nbel Steps](/geography/zrinbel-steps) and the Strandish Ocean
 - To the west; [M!tep Desert](/geography/mtep-desert)
 
-## Places of note:
+## Places of note
 
-### Ki'poh:
+### Ki'Poh
 
 - Tuuk'Grav of the Voice of the Storm.
 - North-east coastal settlement.
 - Fishing, merchants
 - Think Essaouira
 
-### Mo'kan:
+### Mo'Kan
 
 - Tuuk'Grav of the Scorching Sun
 - South-west settlement.
 
-### Ko'tak:
+### Ko'Tak
 
 - Tuuk'Grav of the Broken Arrow
 - North-west
 - Some Silva^truar, some Urman. Think New Marrakesh, classy open markets.
 
-### Gre'Thor:
+### Gre'Thor
 
-- Tuuk'Grav of the Sons of Feh'kir
+- Tuuk'Grav of the Sons of Feh'Kir
 - South-east coastal settlement.
 - Rough
 
-### Dar'sek:
+### Dar'Sek
 
 - Tuuk'Grav of the Jackal's Paw
 - Central
-- Acts as an overland trade hub between Ki'poh and Per^doth to the north.
+- Acts as an overland trade hub between Ki'Poh and Per^doth to the north.
 - Also like marrakesh, but the seedy side
 
 ## Features

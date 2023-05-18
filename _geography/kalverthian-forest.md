@@ -5,9 +5,9 @@ summary: Dense forest spanning the northern Spinward Marches
 continent: spin
 ---
 
-The Kal^verthain Foreset taken from "A traveller's diary by Grundel Hammerkin"
+The Kal^verthian Forest taken from "A traveller's diary by Grundel Hammerkin"
 
-![Kal^verthain Forest](/assets/kalverthian-forest.jpg)
+![Kal^verthian Forest](/assets/kalverthian-forest.jpg)
 
 ## Summary
 
@@ -26,28 +26,28 @@ The Kal^verthain Foreset taken from "A traveller's diary by Grundel Hammerkin"
 - To the west; The [Skor'Dash Scrub](/geography/skordash-scrub) and the
   Bli'Karur Ocean
 
-## Places of note:
+## Places of note
 
-### Wu^thholm:
+### Wu^thholm
 
 southern "capital"
 
-### Nar^vholm:
+### Nar^vholm
 
 the northern "capital"
 
-### Qi^cus:
+### Qi^cus
 
 a colossal oak in the heart of the forest
 
-### Syr^loth:
+### Syr^loth
 
 a large lake in the east of the forest
 
-### Si^xta Pillars:
+### Si^xta Pillars
 
 ancient stone circle
 
-### Ashk^lon's Fast:
+### Ashk^lon's Fast
 
 Ruins of a ancient stone building.

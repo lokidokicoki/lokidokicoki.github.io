@@ -51,7 +51,8 @@ Crossroads town
 
 ### Lir^an & Sim^ran
 
-twin cities joined by a bridge over the River K^ren. Docks
+- Twin cities joined by a bridge over the River K^ren.
+- Docks
 
 ### Per^doth
 
@@ -67,7 +68,8 @@ Southern capital
 
 ### Tib^roth
 
-Southernmost village Near Le'she Scrub.
+- Southernmost village
+- Near [Le'She Scrub](/geography/leshe-scrub).
 
 ## Features
 

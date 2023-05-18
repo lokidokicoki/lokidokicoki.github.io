@@ -21,6 +21,6 @@ continent: spin
 - To the east; [Zr^nbel Steps](/geography/zrinbel-steps) and the Strandish Ocean
 - To the west; The Bli'Karur Ocean
 
-## Places of note:
+## Places of note
 
 TBD

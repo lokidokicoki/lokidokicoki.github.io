@@ -15,7 +15,7 @@ The party has the following Accolades
 
 ![Tynluwurm](/assets/tynluwurn-the-iron-scaled.png)
 
-"I am tinworm"
+"I am Tynwurm"
 
 Silver Drache!zin pit-fighter from [Tsz!kany](/places/tszkany)
 
@@ -25,12 +25,16 @@ A pet raven
 
 ## Ulunnuh the Mad
 
+"Stop calling me Pulunnuh!"
+
 Half Ur'Ku, half Drya^truar Rogue, originally from Fah'Khan, grew up in Ik'Ran
 in the Skor'Dash scrub
 
 ![Ulunnuh](/assets/ulunnuh-the-mad.png)
 
 ## Szithluon
+
+"Call me Szithy"
 
 Bronze Drache!zin ranger from Sh!dan
 
@@ -42,16 +46,22 @@ Faithful Black panther companion
 
 ## Ningri Golith
 
+"Give it up for pimp daddy NinnyG!"
+
 Nordzwergar wizard from (one of) the Zwergar stadts in the Shirak Wastes
 
 ![Ningri Golith](/assets/ningri-golith.png)
 
 ## Luas
 
+"I give it you for a nice price, yes?"
+
 Erilean sorcerer, definitely not a charlatan, nope, he is as honest as the day
 is long.
 
 ## Graxari
+
+"Grax, but I'm more fabulous"
 
 An Ur'Ku bard-barian hailing from Dar'Sek
 

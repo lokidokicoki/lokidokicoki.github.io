@@ -15,8 +15,9 @@ and the good things of the world.</em>
 \-- Taken from "The Races of the Spinward Marches" by Scholar Av^urel Lor^kas,
 \-13HE.
 
-The ^Truar (or 'Elves' in Common) Have been forced to the margins of the
+The ^Truar (or 'Elves' in Common) have been forced to the margins of the
 Spinward Marches; Be^lash in the East and the Kal^verthian Forest in the North.
+
 They still travel the world, enclaves exist in most of the larger cities and
 towns throughout Hylur.
 

@@ -64,3 +64,7 @@ summary: Notable individuals in Hylur
 - Big bear of an Urman.
 - Runs Horfath's Place - gym
 - located in the KrayVax Hexant, The Thorns, Imperial City.
+
+## Grundel Hammerkin
+
+- Mad old Urman that wanders the world compiling maps with his cat.
