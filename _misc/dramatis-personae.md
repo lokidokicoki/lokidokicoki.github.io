@@ -42,8 +42,8 @@ summary: Notable individuals in Hylur
 - Landlord of "Ye Olde Weathered Spoone" tavern (now
   [The Stiff Finger Tavern](/misc/pubs))
 - Retired soldier of the Hylurian Army, so handy in a fight
-- Happy for the heroes to take over as it was previously run by Big Chungus of
-  the "Urmans First" gang
+- Happy for the heroes to take over as it had been run by Big Chungus of the
+  "Urmans First" gang
 - Late 40's/early 50's grey beard, bald on top, quiet, but can be menacing at
   times. Has that casual air of an old soldier who's seen too much.
 - Pub staff:
@@ -64,23 +64,3 @@ summary: Notable individuals in Hylur
 - Big bear of an Urman.
 - Runs Horfath's Place - gym
 - located in the KrayVax Hexant, The Thorns, Imperial City.
-
-# The Players
-
-## Szithluon
-
-## Celasar
-
-## Ulunnuh
-
-## Chelataur
-
-## Tynluwurm the Iron-Scaled
-
-## O.B.D.
-
-## Ningri Golith
-
-## Luas
-
-## Graxari

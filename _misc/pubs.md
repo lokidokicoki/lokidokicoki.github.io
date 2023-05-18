@@ -8,7 +8,8 @@ summary: Player-owned businesses
 
 - Originally called Ye Olde Weathered Spoone.
 - Date acquired: 719HE/F01.
-- Location: Mendel Hexant, The Thorns, Imperial City, Hylur.
+- Location:
+  [Mendel Hexant, The Thorns, Imperial City, Hylur](/places/imperial-city-of-hylur).
 - Franchise deal: Goran receives 10% of the profits as pay for running the
   place.
 
@@ -46,12 +47,12 @@ Maintenance cost: 7gp
 
 - Originally called The Farmer's Arms
 - Date acquired: 719HE/F16
-- Location: Carterby, Hylur
+- Location: [Carterby, Hylur](/geography/hyluria#carterby)
 - Franchise deal: 30% of profits are sent each Siexta to The Stiff Finger
 
 ## Staff
 
-- Landlord/barman: Albert Manzo (Wallace's son, Wallace was killed in the bandit
+- Landlord/barman: Albert Manzo (Wallace's son; Wallace was killed in the bandit
   fight)
 - Cook/barmaid: Hilda Manzo (Albert's mum)
 

@@ -4,12 +4,12 @@ title: Our Heroes
 summary: The brave adventurers currently causing trouble in Hyluria
 ---
 
-# Accolades
+# Current party members
+
+The party has the following Accolades
 
 - Battle Arena Champions 719HE
 - Heroes of Carterby
-
-# Current party members
 
 ## Tynluwurm the Iron-Scaled
 
@@ -17,7 +17,7 @@ summary: The brave adventurers currently causing trouble in Hyluria
 
 "I am tinworm"
 
-Silver Drache!zin pit-fighter from Tsz!kany
+Silver Drache!zin pit-fighter from [Tsz!kany](/places/tszkany)
 
 ### Edgar Allen Crow
 
@@ -48,7 +48,8 @@ Nordzwergar wizard from (one of) the Zwergar stadts in the Shirak Wastes
 
 ## Luas
 
-Erilean sorcerer, definitely not a charlatan, nope, honest as the day is long.
+Erilean sorcerer, definitely not a charlatan, nope, he is as honest as the day
+is long.
 
 ## Graxari
 
@@ -56,18 +57,18 @@ An Ur'Ku bard-barian hailing from Dar'Sek
 
 ---
 
-# Former party members
+## Former party members
 
-## OBD
+### OBD
 
 Enigmatic Half-Silva^truar bard. Disappeared into swirly coloured-lighty thing.
 Current whereabouts; unknown.
 
-## Celasar Suva
+### Celasar Syva
 
 Silva^truar wizard. Current whereabouts; Imperial Citadel, researching the
 Grithryx.
 
-## Chelataur
+### Chelataur
 
 Red Drache!zin warrior. Current whereabouts; roaming Tandive.
