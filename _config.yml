@@ -37,6 +37,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
 
+minima:
+  skin: dark
+
 collections:
   races:
     output: true
