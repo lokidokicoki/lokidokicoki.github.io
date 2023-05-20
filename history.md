@@ -14,17 +14,17 @@ Destroyer ended it."
 In the long ago, before the Hylurian Empire, before men, the raw world existed.
 
 Fractured, the first races, the Drache, the Silva^tru, the Ur'Ku and the Zwergar
-(dragons, elves, orcs, dwarves) battled for a thousand years.
+(dragons, elves, orcs, dwarves) battled for thousands of years.
 
 The world was scarred, ripped in two leaving the Spinward Marches (the Spin) to
 the west and the Ripwise Lands (the Rip) to the east, bracketed by Shirak wastes
 and frozen Islandia to the North and the Darak Wastes and Cerulia to the south.
 
 The Drache (dragons) moved to the south, into the great M!tep desert and the
-Le'she Scrub.
+Le'She Scrub.
 
 The tribes of the Ur'Ku split; some headed to the north west (Skor'dash Scrub),
-some to the Le'she Scrub and some are rumoured to have crossed the Standish
+some to the Le'She Scrub and some are rumoured to have crossed the Standish
 Ocean via the Zr^nbel Bridge into the Ripwise Lands.
 
 The elves also divided, some moved north into the Great Kal^verthian Forest, the
@@ -32,6 +32,11 @@ rest settled the province Be^lash on the east coast of the Spin.
 
 The stout Zwergar went under the mountains in the Shirak and Darak Wastes,
 hidden from prying eyes, loath to contact the outside world.
+
+Relations between the Chromatic and Metallic Drache were stretched to breaking
+point, leading to the Drache Wars. For a millennia the great beasts fought,
+finally seeing sense, ending the war and signing an accord leading relative
+harmony.
 
 For a time, all was calm. Then a terrible evil reared its head, Zarg the
 Annihilator. It brought the Great Scourge, wreaking havoc upon the face of the
@@ -48,7 +53,7 @@ Time passed, the first races returned to their homes, becoming more secluded.
 
 Men, Urman as they became to be known, arrived on the coast of Be^lash. From
 where, no record has ever been found. They moved along the K^ren River and
-settled the fertile farmland of Tandive. Some went south, through the Le'she
+settled the fertile farmland of Tandive. Some went south, through the Le'She
 Scrub and the Mro'Gabtak belt to colonise Erilea.
 
 From Tandive, the humans fought a bitter territory war with the Silva^tru of
@@ -90,13 +95,13 @@ date "The Formal History of Hyluria" was written).
 | --------- | ------------------------------------------------------------------------------------------------------------------ |
 | Pre-time  | The Six bring the world into being                                                                                 |
 | -300000HE | The Drache arrive                                                                                                  |
-| -10000HE  | The Furistaz arrive                                                                                                |
+| -10000HE  | The Furistaz (First Races, Ur'Ku, ^Truar and Zwergar) arrive                                                       |
 | -8000HE   | War of The Furistaz begins                                                                                         |
 | -4000HE   | War of The Furistaz ends; The Furistaz (now incorporating the Drache) separate and settle their lands              |
 | -3800HE   | The Drache Wars begin                                                                                              |
 | -2800HE   | The Drache Wars end with The Sz!rz!des of Sz!nes being signed                                                      |
 | -2476HE   | Zarg rises and begins the Great Scourge                                                                            |
-| -1910HE   | The Furistaz joined forces to defeat Zarg.                                                                         |
+| -1910HE   | The Furistaz joined forces to defeat Zarg the War of Annihilation.                                                 |
 | -505HE    | The Urman arrive on the coast of Be^lash                                                                           |
 | -434HE    | The Urman settle Tandive                                                                                           |
 | -201HE    | The War of the Nehwist (Next race) begins (Urman vs Silva^tru, Tandive vs. Be^lash)                                |
@@ -104,5 +109,5 @@ date "The Formal History of Hyluria" was written).
 | 200HE     | Tandive starts fight for independence                                                                              |
 | 212HE     | Tandive becomes satellite state of the Empire                                                                      |
 | 402HE     | Scholar Qi^ldor publishes the Formal History of Hyluria.                                                           |
-| 650HE     | Odd events reported in the South                                                                                   |
+| 700HE     | Strange events reported South of Hyluria.                                                                          |
 | 719HE     | now!                                                                                                               |

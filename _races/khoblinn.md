@@ -16,3 +16,5 @@ Traditionally the indentured servants of the [Ur'Ku](/races/urku), the
 relationship between the Khob'Linn (or 'Goblin' in Common) and the Ur'Ku has
 evolved from a slave caste to if not equal, then at least approaching equal,
 worker class.
+
+Khob'Linn make good scouts, skirmish fighters and beast riders.

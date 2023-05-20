@@ -16,7 +16,8 @@ and the good things of the world.</em>
 \-13HE.
 
 The ^Truar (or 'Elves' in Common) have been forced to the margins of the
-Spinward Marches; Be^lash in the East and the Kal^verthian Forest in the North.
+Spinward Marches; [Be^lash](/geography/belash) in the East and the
+[Kal^verthian Forest](/geography/kalverthian-forest) in the North.
 
 They still travel the world, enclaves exist in most of the larger cities and
 towns throughout Hylur.

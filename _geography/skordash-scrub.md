@@ -20,7 +20,7 @@ The Skor'Dash Scrub - taken from "A traveller's diary by Grundel Hammerkin"
 ### Location
 
 - To the north; the [Kal^verthian Forest](/geography/kalverthian-forest)
-- To the south; [Mt!tep Desert](/geography/mtep-desert)
+- To the south; [M!tep Desert](/geography/mtep-desert)
 - To the east; [Tandive](/geography/tandive)
 - To the west; The Bli'Karur Ocean
 

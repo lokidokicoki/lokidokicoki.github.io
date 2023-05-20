@@ -9,17 +9,18 @@ d5e: Dragonborn
 though they lack wings or a tail.</em>
 
 \-- Taken from "The Races of the Spinward Marches" by Scholar Av^urel Lor^kas,
--13HE.
+\-13HE.
 
 The Drachen (or 'Dragons' in Common) were the first race to exist in the world,
-formed by the gods in early glimmers of creation. Their long lifespans have
+formed by the gods in the early glimmers of creation. Their long lifespans have
 allowed them to see the continents dance and shimmy across the oceans, over many
 millennia, reshaping the land into what we see today.
 
-Over time the other Furistaz (First races; ^Truar, Zwergar and Ur'Ku) came into
-being, and after a brutal and bloody war; which coincided with the separation of
-the two main continents, the lands were divided up between them, with the Drache
-relocating to the M!tep Desert.
+Over time the other Furistaz (First races; [^Truar](/races/truar),
+[Zwergar](/races/zwergar) and [Ur'Ku](/races/urku)) came into being, and after a
+brutal and bloody war; which coincided with the separation of the two main
+continents, the lands were divided up between them, with the Drache relocating
+to the [M!tep Desert](/geography/mtep-desert).
 
 Drachen history at this point is bitter, with a rift forming between the
 chromatic and metallic Drache (along lines of support for and against the War of
