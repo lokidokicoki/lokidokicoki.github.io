@@ -21,7 +21,7 @@ Total population \~10,000
 
 - Lustrous Scales hotel - run by a Gold drachezin Sz!tar K!nig
 - The Scorpions Sting Tavern - gold and red darchezin owners (Sh!dak and Fl!eek)
-- The Blue Boar Inn - red drachezin owner called Kl!tif
+- The Blue Boar Inn - a slum dive run by a red drachezin called Kl!tif
 
 ## Leadership
 
