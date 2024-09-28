@@ -47,14 +47,20 @@ The M!tep Desert adapted from "A traveller's diary by Grundel Hammerkin"
 - northern most
 - Run by Green/copper
 
+[More info](/places/ghidrah)
+
 ### Aj!daha
 
 - south-west of Faf!nyr, run by red/gold
+
+[More info](/places/ajdaha)
 
 ### Sh!dan
 
 - West-most, near the coast
 - Run by white and bronze
+
+[More info](/places/shdan)
 
 ## Features
 
