@@ -1,4 +1,4 @@
 # Tales of Hyluria
 
-This is a record of hte Hyluria game sessions, published as github pages to
+This is a record of the Hyluria game sessions, published as github pages to
 www.hyluria.info
